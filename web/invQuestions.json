@@ -1,0 +1,569 @@
+{
+  "Telur þú ástæðu til að breyta stjórnarskránni?":   {
+    "name": "breyta_stjornarskra",
+    "options":     {
+      "Mjög mikla": "5",
+      "Mikla": "4",
+      "Hvorki né": "3",
+      "Litla": "2",
+      "Mjög litla": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) að eignarhald þjóðarinnar á náttúruauðlindum verði bundið í stjórnarskrá?":   {
+    "name": "eignarhald_natturu",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að hafa ákvæði um þjóðkirkju á Íslandi í stjórnarskránni?":   {
+    "name": "thjodkirkja",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á forseti Íslands áfram að hafa málskotsrétt?":   {
+    "name": "forseti_malskot",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) að viðhafa þjóðaratkvæðagreiðslur í auknu mæli?":   {
+    "name": "thjodaratkv",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ert þú hlynnt(ur) eða andvíg(ur) persónukjöri?":   {
+    "name": "personukjor",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að kjósa ríkisstjórn beinni kosningu?":   {
+    "name": "beinnikosningu",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að ráðherrar geti setið á Alþingi?":   {
+    "name": "radherrarsitja",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að lækka eða hækka kosningaaldurinn?":   {
+    "name": "kosningaaldur",
+    "options":     {
+      "í 16 ár": "16",
+      "í 17 ár": "17",
+      "Óbreyttur": "18",
+      "í 19 ár": "19",
+      "í 20 ár": "20",
+      "Hlutlaus": "997",
+      "Annað": "998",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að dómsmálaráðherra fari einn með vald til að skipa hæstaréttardómara?":   {
+    "name": "domsmalaradherra",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hver eftirfarandi möguleika lýsir þínum áherslum um kjördæmaskipan á Íslandi best?":   {
+    "name": "kjordaemaskipan",
+    "options":     {
+      "Kjördæmaskipun verði óbreytt": "1",
+      "Landið verði eitt kjördæmi": "2",
+      "Kjördæmum verði fækkað eitthvað": "3",
+      "Kjördæmum verði fjölgað (t.d. einmenningskjördæmi)": "4",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hver er afstaða þín til atkvæðavægis í Alþingiskosningum?":   {
+    "name": "atkvvaegi",
+    "options":     {
+      "Það er eðlilegt að vægi atkvæða sé ólíkt eftir landshlutum": "1",
+      "Vægi atkvæða á að vera hið sama óháð búsetu": "2",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hver á að geta knúið á um þjóðaratkvæðagreiðslur? (merktu við allt sem við á)":   {
+    "name": "thjodaratkvgreidslur",
+    "options": {"": "thjodaratkvgreidslur_vilekkisvara"}
+  },
+  "Eiga þjóðaratkvæðagreiðslur að vera ráðgefandi eða bindandi?":   {
+    "name": "radgbind",
+    "options":     {
+      "Ráðgefandi": "1",
+      "Bindandi": "2",
+      "Ýmist ráðgefandi eða bindandi eftir atvikum": "3",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hvort vilt þú heldur að ríki á Íslandi þingræði eða forsetaræði?":   {
+    "name": "thingrforsetar",
+    "options":     {
+      "Þingræði": "1",
+      "Forsetaræði": "2",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Eru hlynnt(ur) eða andvíg(ur) því að dómarar verði kosnir af almenningi?":   {
+    "name": "domararkosnir",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að heimilaðar verði opnar yfirheyrslur á Alþingi?":   {
+    "name": "opnaryfirheyrslur",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að vald til að veita opinberar stöður sé hjá einum pólitískum ráðherra?":   {
+    "name": "opinberarstodur",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að draga úr eða auka valdheimildir forsetans í stjórnarskránni?":   {
+    "name": "valdheimildir",
+    "options":     {
+      "Auka verulega valdheimildir": "5",
+      "Auka valdheimildir lítillega": "4",
+      "Hlutlaus": "3",
+      "Draga lítillega úr valdheimildum": "2",
+      "Draga verulega úr valdheimildum": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hvort viltu heldur að kjördæmaskipan byggi á einfaldri meirihlutakosningu í einmenningskjördæmum eða á hlutfallskosningu?":   {
+    "name": "meirihlutakosn",
+    "options":     {
+      "Einföld meirihlutakosning": "1",
+      "Hlutfallskosning": "2",
+      "Ekkert á við": "998",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að fjölga eða fækka þingmönnum?":   {
+    "name": "fjolgfaekka",
+    "options":     {
+      "Fjölga þingmönnum": "1",
+      "Fækka þingmönnum": "2",
+      "Óbreyttur fjöldi": "3",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að takmarka hversu lengi forseti getur setið?":   {
+    "name": "forsetilengi",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að takmarka hversu lengi forsætisráðherra getur setið?":   {
+    "name": "forsaetisradhlengi",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að íslenska verði bundin í stjórnarskrá sem þjóðtunga?":   {
+    "name": "islenskabundin",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að tryggja jafnrétti óháð kynhneigð í stjórnarskrá?":   {
+    "name": "jafnretti",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að stjórnarskrá kveði á um að Ísland verði ávallt kjarnorkuvopnalaust land?":   {
+    "name": "kjarnorkuvopnalaust",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að réttur almennings til upplýsinga sem varða almannahag verði tryggður í stjórnarskrá?":   {
+    "name": "rettupplysinga",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  }
+}{
+  "Telur þú ástæðu til að breyta stjórnarskránni?":   {
+    "name": "breyta_stjornarskra",
+    "options":     {
+      "Mjög mikla": "5",
+      "Mikla": "4",
+      "Hvorki né": "3",
+      "Litla": "2",
+      "Mjög litla": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) að eignarhald þjóðarinnar á náttúruauðlindum verði bundið í stjórnarskrá?":   {
+    "name": "eignarhald_natturu",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að hafa ákvæði um þjóðkirkju á Íslandi í stjórnarskránni?":   {
+    "name": "thjodkirkja",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á forseti Íslands áfram að hafa málskotsrétt?":   {
+    "name": "forseti_malskot",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) að viðhafa þjóðaratkvæðagreiðslur í auknu mæli?":   {
+    "name": "thjodaratkv",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ert þú hlynnt(ur) eða andvíg(ur) persónukjöri?":   {
+    "name": "personukjor",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að kjósa ríkisstjórn beinni kosningu?":   {
+    "name": "beinnikosningu",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að ráðherrar geti setið á Alþingi?":   {
+    "name": "radherrarsitja",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að lækka eða hækka kosningaaldurinn?":   {
+    "name": "kosningaaldur",
+    "options":     {
+      "í 16 ár": "16",
+      "í 17 ár": "17",
+      "Óbreyttur": "18",
+      "í 19 ár": "19",
+      "í 20 ár": "20",
+      "Hlutlaus": "997",
+      "Annað": "998",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að dómsmálaráðherra fari einn með vald til að skipa hæstaréttardómara?":   {
+    "name": "domsmalaradherra",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hver eftirfarandi möguleika lýsir þínum áherslum um kjördæmaskipan á Íslandi best?":   {
+    "name": "kjordaemaskipan",
+    "options":     {
+      "Kjördæmaskipun verði óbreytt": "1",
+      "Landið verði eitt kjördæmi": "2",
+      "Kjördæmum verði fækkað eitthvað": "3",
+      "Kjördæmum verði fjölgað (t.d. einmenningskjördæmi)": "4",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hver er afstaða þín til atkvæðavægis í Alþingiskosningum?":   {
+    "name": "atkvvaegi",
+    "options":     {
+      "Það er eðlilegt að vægi atkvæða sé ólíkt eftir landshlutum": "1",
+      "Vægi atkvæða á að vera hið sama óháð búsetu": "2",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hver á að geta knúið á um þjóðaratkvæðagreiðslur? (merktu við allt sem við á)":   {
+    "name": "thjodaratkvgreidslur",
+    "options": {"": "thjodaratkvgreidslur_vilekkisvara"}
+  },
+  "Eiga þjóðaratkvæðagreiðslur að vera ráðgefandi eða bindandi?":   {
+    "name": "radgbind",
+    "options":     {
+      "Ráðgefandi": "1",
+      "Bindandi": "2",
+      "Ýmist ráðgefandi eða bindandi eftir atvikum": "3",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hvort vilt þú heldur að ríki á Íslandi þingræði eða forsetaræði?":   {
+    "name": "thingrforsetar",
+    "options":     {
+      "Þingræði": "1",
+      "Forsetaræði": "2",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Eru hlynnt(ur) eða andvíg(ur) því að dómarar verði kosnir af almenningi?":   {
+    "name": "domararkosnir",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að heimilaðar verði opnar yfirheyrslur á Alþingi?":   {
+    "name": "opnaryfirheyrslur",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að vald til að veita opinberar stöður sé hjá einum pólitískum ráðherra?":   {
+    "name": "opinberarstodur",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að draga úr eða auka valdheimildir forsetans í stjórnarskránni?":   {
+    "name": "valdheimildir",
+    "options":     {
+      "Auka verulega valdheimildir": "5",
+      "Auka valdheimildir lítillega": "4",
+      "Hlutlaus": "3",
+      "Draga lítillega úr valdheimildum": "2",
+      "Draga verulega úr valdheimildum": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Hvort viltu heldur að kjördæmaskipan byggi á einfaldri meirihlutakosningu í einmenningskjördæmum eða á hlutfallskosningu?":   {
+    "name": "meirihlutakosn",
+    "options":     {
+      "Einföld meirihlutakosning": "1",
+      "Hlutfallskosning": "2",
+      "Ekkert á við": "998",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Á að fjölga eða fækka þingmönnum?":   {
+    "name": "fjolgfaekka",
+    "options":     {
+      "Fjölga þingmönnum": "1",
+      "Fækka þingmönnum": "2",
+      "Óbreyttur fjöldi": "3",
+      "Hlutlaus": "997",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að takmarka hversu lengi forseti getur setið?":   {
+    "name": "forsetilengi",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að takmarka hversu lengi forsætisráðherra getur setið?":   {
+    "name": "forsaetisradhlengi",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að íslenska verði bundin í stjórnarskrá sem þjóðtunga?":   {
+    "name": "islenskabundin",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að tryggja jafnrétti óháð kynhneigð í stjórnarskrá?":   {
+    "name": "jafnretti",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að stjórnarskrá kveði á um að Ísland verði ávallt kjarnorkuvopnalaust land?":   {
+    "name": "kjarnorkuvopnalaust",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  },
+  "Ertu hlynnt(ur) eða andvíg(ur) því að réttur almennings til upplýsinga sem varða almannahag verði tryggður í stjórnarskrá?":   {
+    "name": "rettupplysinga",
+    "options":     {
+      "Mjög hlynnt(ur)": "5",
+      "Frekar hlynnt(ur)": "4",
+      "Hlutlaus": "3",
+      "Frekar andvíg(ur)": "2",
+      "Mjög andvíg(ur)": "1",
+      "Vil ekki svara": "999"
+    }
+  }
+}

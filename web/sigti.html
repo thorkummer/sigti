@@ -1,0 +1,601 @@
+
+<html>
+  <head>
+    <title>Sigti</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    <meta name="title" content="Frambóðendasía" />
+    <meta name="description" content="Sjáðu dýnamískt hverjir svara DV spurningunum líkast þér" />    
+    <link rel="image_src" type="image/png" href="http://77.37.13.117/frambjodenda-sia.png" /> 
+    <script type"text/javascript" src="jquery-1.4.4.js"></script>
+    <script type"text/javascript" src="questions.js"></script>
+    <script type"text/javascript" src="candidates.js"></script>
+    <script type"text/javascript" src="score.js"></script>
+    <script type"text/javascript" src="candAnswers.js"></script>
+    <style type="text/css">
+      td { vertical-align: top }
+      .header { padding-bottom: 5px; border-bottom: 1px solid silver; font-weight: bold }
+      .tableheader { border-bottom: 1px solid silver }
+      table.questions td.text { width: 100% }
+      table.questions tr td { border-bottom: 1px dotted silver }
+      select { width: 150px }
+      #first, #prev, #next, #last { cursor: pointer }
+      table.candidates tr td { border-bottom: 1px dotted silver }
+      table.candidates td.name { width 300 px }
+      table.candidates { border-left: 2px solid silver }
+      td.candidates { width: 350px }
+      img.thumbnail { width: 25px; height: 25px }
+      .footer { border-top: 1px solid gray; font-size: 0.8em; color: silver }
+      .footer a { color: gray }
+    </style>
+  </head>
+  <body>
+	    <div class="header" style="width: 100%">
+		  <a href="http://www.dv.is/stjornlagathing/all/">Spurningar DV</a> til frambjóðenda stjórnlagaþings - Sjáðu dýnamískt hverjir svara líkast þér.
+	    </div>
+	  </tr>
+	</table>
+  	<table>
+  	    <tr class="tableheader"">
+  	        <td>Spurningar DV og þín svör</td>
+  	        <td title="Frambjóðendur sem svara líkast">
+  	          <table style="width: 100%">
+  	            <tr> 
+  	              <td style="width: 100%">
+  	                Frambjóðendur&nbsp
+  	              </td>
+  	              <td>
+  	                <a title="fyrsta síða" id="first">&lt&lt;</a>&nbsp;<a title="fyrri síða" id="prev">&lt;</a>&nbsp;<span id="pagenr">1</span>/21&nbsp;<a title="næsta síða" id="next">&gt;</a>&nbsp;<a title="síðasta síða" id="last">&gt;&gt;</a>
+  	              </td>
+  	            </tr>
+  	          </table>
+  	        </td>
+  	    </tr>
+  		<tr>
+  			<td class="questions">
+  				<table class="questions">
+  				      <tr>
+      <td class="text" title="">Telur þú ástæðu til að breyta stjórnarskránni?</td>
+      <td>
+        <select id="breyta_stjornarskra" name="breyta_stjornarskra" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög mikla</option> 
+	      <option value="4">Mikla</option> 
+	      <option value="3">Hvorki né</option> 
+	      <option value="2">Litla</option> 
+	      <option value="1">Mjög litla</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Eignarhald þjóðarinnar á náttúruauðlindum er ekki bundið í stjórnarskrá. Meðal náttúruauðlinda má nefna fiskveiðimið og orku.">Ertu hlynnt(ur) eða andvíg(ur) að eignarhald þjóðarinnar á náttúruauðlindum verði bundið í stjórnarskrá?</td>
+      <td>
+        <select id="eignarhald_natturu" name="eignarhald_natturu" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í núgildandi stjórnarskrá segir í 62. grein: „Hin evangeliska lúterska kirkja skal vera þjóðkirkja á Íslandi, og skal ríkisvaldið að því leyti styðja hana og vernda.” Breyta má þessu með lögum. Deilt er um hvort breyta eigi þessu ákvæði.">Ertu hlynnt(ur) eða andvíg(ur) því að hafa ákvæði um þjóðkirkju á Íslandi í stjórnarskránni?</td>
+      <td>
+        <select id="thjodkirkja" name="thjodkirkja" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í 26. grein stjórnarskrárinnar segir að ef forseti synji lagafrumvarpi staðfestingar, fær það þó engu að síður lagagildi, en leggja skal það þá svo fljótt sem kostur er undir atkvæði allra kosningarbærra manna í landinu til samþykktar eða synjunar með leynilegri atkvæðagreiðslu. Lögin falla úr gildi, ef samþykkis er synjað, en ella halda þau gildi sínu.">Á forseti Íslands áfram að hafa málskotsrétt?</td>
+      <td>
+        <select id="forseti_malskot" name="forseti_malskot" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Þjóðaratkvæðagreiðslur fara fram ef forseti synjar lögum staðfestingar. Í stjórnarskránni er ekki kveðið á um að almenningur geti krafist þjóðaratkvæðagreiðslu, en samkvæmt núgildandi fyrirkomulagi eru þjóðaratkvæðagreiðslur ráðgefandi en ekki bindandi.">Ertu hlynnt(ur) eða andvíg(ur) að viðhafa þjóðaratkvæðagreiðslur í auknu mæli?</td>
+      <td>
+        <select id="thjodaratkv" name="thjodaratkv" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í 31. grein stjórnarskrárinnar segir að þingmenn skuli kosnir með hlutbundinni kosningu, sem er talið merkja að þeir skuli kosnir af framboðslistum. Persónukjör er það fyrirkomulag þingkosninga þar sem kjósendum er veitt meiri eða minni aðkoma að vali á þingmannsefnum af framboðslistum í kosningum. Persónukjör getur einnig átt við um val á frambjóðendum án þess að listar komi við sögu. Þá velja kjósendur perónur úr hópi frambjóðenda, hvort sem þeir tilheyra framboðslistum eða ekki.">Ert þú hlynnt(ur) eða andvíg(ur) persónukjöri?</td>
+      <td>
+        <select id="personukjor" name="personukjor" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í núgildandi kerfi þarf að öllu jöfnu meirihluta Alþingis til þess að ná framkvæmdavaldi og mynda starfhæfa ríkisstjórn. Framkvæmdavaldið sækir umboð sitt til löggjafavaldsins.">Á að kjósa ríkisstjórn beinni kosningu?</td>
+      <td>
+        <select id="beinnikosningu" name="beinnikosningu" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="í núgildandi stjórnarskrá er ekkert sem bannar að ráðherrar geti setið á Alþingi, en ráðherra sem sem situr á Alþingi er bæði handhafi framkvæmdavalds og löggjafarvalds.">Ertu hlynnt(ur) eða andvíg(ur) því að ráðherrar geti setið á Alþingi?</td>
+      <td>
+        <select id="radherrarsitja" name="radherrarsitja" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í 33. grein stjórnarskrárinnar segir að kosningarrétt við kosningar til Alþingis hafa allir sem eru 18 ára eða eldri þegar kosning fer fram og hafa íslenskan ríkisborgararétt.">Á að lækka eða hækka kosningaaldurinn?</td>
+      <td>
+        <select id="kosningaaldur" name="kosningaaldur" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="16">í 16 ár</option> 
+	      <option value="17">í 17 ár</option> 
+	      <option value="18">Óbreyttur</option> 
+	      <option value="19">í 19 ár</option> 
+	      <option value="20">í 20 ár</option> 
+	      <option value="997">Hlutlaus</option> 
+	      <option value="998">Annað</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Dómsmálaráðherra skipar dómara í Hæstarétt Íslands. Ekki er kveðið sérstaklega á um það í stjórnarskrá, en lögð hafa verið fram frumvörp til laga á Alþingi að það verði í höndum Alþingis að skipa dómara.">Ertu hlynnt(ur) eða andvíg(ur) því að dómsmálaráðherra fari einn með vald til að skipa hæstaréttardómara?</td>
+      <td>
+        <select id="domsmalaradherra" name="domsmalaradherra" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Ísland skiptist í sex kjördæmi sem kjósa fulltrúa á Alþingi. Þau eru: Reykjavíkurkjördæmi norður (11 þingmenn), Reykjavíkurkjördæmi suður (11 þingmenn), Norðvesturkjördæmi (9 þingmenn), Norðausturkjördæmi (10 þingmenn), Suðurkjördæmi (10 þingmenn) og Suðvesturkjördæmi (12 þingmenn). Um kjördæmaskipan á Íslandi er mælt fyrir í 31. grein stjórnarskrárinnar og í lögum um kosningar til Alþingis. Kveðið er á um það í 31. grein stjórnarskrárinnar að kjördæmi skulu vera fæst sex en flest sjö.">Hver eftirfarandi möguleika lýsir þínum áherslum um kjördæmaskipan á Íslandi best?</td>
+      <td>
+        <select id="kjordaemaskipan" name="kjordaemaskipan" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="1">Kjördæmaskipun verði óbreytt</option> 
+	      <option value="2">Landið verði eitt kjördæmi</option> 
+	      <option value="3">Kjördæmum verði fækkað eitthvað</option> 
+	      <option value="4">Kjördæmum verði fjölgað (t.d. einmenningskjördæmi)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="">Hver er afstaða þín til atkvæðavægis í Alþingiskosningum?</td>
+      <td>
+        <select id="atkvvaegi" name="atkvvaegi" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="1">Það er eðlilegt að vægi atkvæða sé ólíkt eftir landshlutum</option> 
+	      <option value="2">Vægi atkvæða á að vera hið sama óháð búsetu</option> 
+	      <option value="997">Hlutlaus</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+         <tr>
+      <td class="text" title="Þjóðaratkvæðagreiðslur, aðrar en þær sem forseti boðar til með því að beita málskotsrétti sínum, eru ráðgefandi. Ekki er kveðið á um það í stjórnarskrá að aðrar þjóðaratkvæðagreiðslur séu bindandi fyrir stjórnvöld.">Eiga þjóðaratkvæðagreiðslur að vera ráðgefandi eða bindandi?</td>
+      <td>
+        <select id="radgbind" name="radgbind" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="1">Ráðgefandi</option> 
+	      <option value="2">Bindandi</option> 
+	      <option value="3">Ýmist ráðgefandi eða bindandi eftir atvikum</option> 
+	      <option value="997">Hlutlaus</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Vilt þú að á Íslandi ríki þingræði, þar sem meirihluti þings getur fellt ríksstjórn með vantrausti eða forsetaræði þar sem annað hvort forseti eða forsætisráðherra er kosinn í beinni kosningu og skipar ríkisstjórn.">Hvort vilt þú heldur að ríki á Íslandi þingræði eða forsetaræði?</td>
+      <td>
+        <select id="thingrforsetar" name="thingrforsetar" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="1">Þingræði</option> 
+	      <option value="2">Forsetaræði</option> 
+	      <option value="997">Hlutlaus</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Dómsmálaráðherra fer með skipan dómara. Lagt hefur verið til að Alþingi kjósi um dómara og önnur útfærsla er að dómarar sæki umboð sitt til almennings.">Eru hlynnt(ur) eða andvíg(ur) því að dómarar verði kosnir af almenningi?</td>
+      <td>
+        <select id="domararkosnir" name="domararkosnir" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Sbr. Í Bandaríkjunum.">Ertu hlynnt(ur) eða andvíg(ur) því að heimilaðar verði opnar yfirheyrslur á Alþingi?</td>
+      <td>
+        <select id="opnaryfirheyrslur" name="opnaryfirheyrslur" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Aðra en skilgreinda, pólitískt ráðna aðstoðarmenn">Ertu hlynnt(ur) eða andvíg(ur) því að vald til að veita opinberar stöður sé hjá einum pólitískum ráðherra?</td>
+      <td>
+        <select id="opinberarstodur" name="opinberarstodur" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Forsetinn hefur margvíslegt hlutverk samkvæmt stjórnarskrá. 2. gr. Alþingi og forseti Íslands fara saman með löggjafarvaldið 15. gr. Forsetinn skipar ráðherra og veitir þeim lausn. Hann ákveður tölu þeirra og skiptir störfum með þeim. 19. gr. Undirskrift forseta lýðveldisins undir löggjafarmál eða stjórnarerindi veitir þeim gildi, er ráðherra ritar undir þau með honum. 22. gr. [Forseti lýðveldisins stefnir saman Alþingi eigi síðar en tíu vikum eftir almennar alþingiskosningar. Forsetinn setur reglulegt Alþingi ár hvert.] Kveðið er á um að forseti láti ráðherra framkvæma vald sitt.">Á að draga úr eða auka valdheimildir forsetans í stjórnarskránni?</td>
+      <td>
+        <select id="valdheimildir" name="valdheimildir" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Auka verulega valdheimildir</option> 
+	      <option value="4">Auka valdheimildir lítillega</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Draga lítillega úr valdheimildum</option> 
+	      <option value="1">Draga verulega úr valdheimildum</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í fyrirkomulagi einmenningskjördæma hefur kjósandinn fullt val á milli frambjóðenda. Hann velur sitt þingmannsefni og allir sem bjóða sig fram standa honum til boða. Oftast er þó aðeins einn frambjóðandi í boði fyrir hvern flokk. Þessi kjördæmaskipan leiðir oftast til tveggja flokka kerfis, líkt og í Bandaríkjunum og í Bretlandi. Sá frambjóðandi sem hlýtur flest atkvæði hreppir eina þingsætið í kjördæminu.">Hvort viltu heldur að kjördæmaskipan byggi á einfaldri meirihlutakosningu í einmenningskjördæmum eða á hlutfallskosningu?</td>
+      <td>
+        <select id="meirihlutakosn" name="meirihlutakosn" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="1">Einföld meirihlutakosning</option> 
+	      <option value="2">Hlutfallskosning</option> 
+	      <option value="998">Ekkert á við</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í 31. grein stjórnarskrárinnar segir að á Alþingi eiga sæti 63 þjóðkjörnir þingmenn, kosnir leynilegri hlutbundinni kosningu til fjögurra ára">Á að fjölga eða fækka þingmönnum?</td>
+      <td>
+        <select id="fjolgfaekka" name="fjolgfaekka" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="1">Fjölga þingmönnum</option> 
+	      <option value="2">Fækka þingmönnum</option> 
+	      <option value="3">Óbreyttur fjöldi</option> 
+	      <option value="997">Hlutlaus</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Hvorki er kveðið á um í stjórnarskrá né í lögum um hversu lengi forseti getur setið í embætti.">Ertu hlynnt(ur) eða andvíg(ur) því að takmarka hversu lengi forseti getur setið?</td>
+      <td>
+        <select id="forsetilengi" name="forsetilengi" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Hvorki er kveðið á um í stjórnarskrá né í lögum um hversu lengi forsætisráðherra getur setið í embætti.">Ertu hlynnt(ur) eða andvíg(ur) því að takmarka hversu lengi forsætisráðherra getur setið?</td>
+      <td>
+        <select id="forsaetisradhlengi" name="forsaetisradhlengi" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Ekkert er kveðið á um þjóðtungu Íslendinga í núgildandi stjórnarskrá.">Ertu hlynnt(ur) eða andvíg(ur) því að íslenska verði bundin í stjórnarskrá sem þjóðtunga?</td>
+      <td>
+        <select id="islenskabundin" name="islenskabundin" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Í 65. grein stjórnarskrárinnar segir að allir skulu vera jafnir fyrir lögum og njóta mannréttinda án tillits til kynferðis, trúarbragða, skoðana, þjóðernisuppruna, kynþáttar, litarháttar, efnahags, ætternis og stöðu að öðru leyti. Ekki er kveðið sérstaklega á um kynhneigð.">Ertu hlynnt(ur) eða andvíg(ur) því að tryggja jafnrétti óháð kynhneigð í stjórnarskrá?</td>
+      <td>
+        <select id="jafnretti" name="jafnretti" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="">Ertu hlynnt(ur) eða andvíg(ur) því að stjórnarskrá kveði á um að Ísland verði ávallt kjarnorkuvopnalaust land?</td>
+      <td>
+        <select id="kjarnorkuvopnalaust" name="kjarnorkuvopnalaust" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+       <tr>
+      <td class="text" title="Ekkert er kveðið á um þetta í stjórnarskrá.">Ertu hlynnt(ur) eða andvíg(ur) því að réttur almennings til upplýsinga sem varða almannahag verði tryggður í stjórnarskrá?</td>
+      <td>
+        <select id="rettupplysinga" name="rettupplysinga" class="answer">
+          <option selected="selected" value="1001"></option> 
+	      <option value="5">Mjög hlynnt(ur)</option> 
+	      <option value="4">Frekar hlynnt(ur)</option> 
+	      <option value="3">Hlutlaus</option> 
+	      <option value="2">Frekar andvíg(ur)</option> 
+	      <option value="1">Mjög andvíg(ur)</option> 
+	      <option value="999">Vil ekki svara</option>
+	    </select>
+	  </td>
+    </tr>
+   
+  				</table>
+  			</td>
+  			<td class="candidates">
+  				<table class="candidates">
+  				       <tr>
+        <td class="score" title="skor" id="cand_score_0">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_0" class="thumbnail" src="images/thumbnails/6802.jpg"></td>
+     	<td class="name"><a id="cand_name_0" href="http://www.dv.is/stjornlagathing/kjartan-thor-ragnarsson/konnun" title="DV síða frambjóðanda">Kjartan Þór Ragnarsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_0">6802</td>
+     	<td class="fix" id="cand_fix_0" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_1">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_1" class="thumbnail" src="images/thumbnails/9046.jpg"></td>
+     	<td class="name"><a id="cand_name_1" href="http://www.dv.is/stjornlagathing/eva-huld-fridriksdottir/konnun" title="DV síða frambjóðanda">Eva Huld Friðriksdóttir</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_1">9046</td>
+     	<td class="fix" id="cand_fix_1" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_2">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_2" class="thumbnail" src="images/thumbnails/7781.jpg"></td>
+     	<td class="name"><a id="cand_name_2" href="http://www.dv.is/stjornlagathing/gunnar-orn-stefansson/konnun" title="DV síða frambjóðanda">Gunnar Örn Stefánsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_2">7781</td>
+     	<td class="fix" id="cand_fix_2" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_3">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_3" class="thumbnail" src="images/thumbnails/6439.jpg"></td>
+     	<td class="name"><a id="cand_name_3" href="http://www.dv.is/stjornlagathing/gudmundur-s-johnsen/konnun" title="DV síða frambjóðanda">Guðmundur S. Johnsen</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_3">6439</td>
+     	<td class="fix" id="cand_fix_3" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_4">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_4" class="thumbnail" src="images/thumbnails/3216.jpg"></td>
+     	<td class="name"><a id="cand_name_4" href="http://www.dv.is/stjornlagathing/jon-thorsteinn-sigurdsson/konnun" title="DV síða frambjóðanda">Jón Þorsteinn Sigurðsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_4">3216</td>
+     	<td class="fix" id="cand_fix_4" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_5">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_5" class="thumbnail" src="images/thumbnails/2721.jpg"></td>
+     	<td class="name"><a id="cand_name_5" href="http://www.dv.is/stjornlagathing/gudrun-helgadottir/konnun" title="DV síða frambjóðanda">Guðrún Helgadóttir</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_5">2721</td>
+     	<td class="fix" id="cand_fix_5" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_6">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_6" class="thumbnail" src="images/thumbnails/3183.jpg"></td>
+     	<td class="name"><a id="cand_name_6" href="http://www.dv.is/stjornlagathing/vilhjalmur-th-a-vilhjalmsson/konnun" title="DV síða frambjóðanda">Vilhjálmur Þ. Á. Vilhjálmsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_6">3183</td>
+     	<td class="fix" id="cand_fix_6" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_7">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_7" class="thumbnail" src="images/thumbnails/2237.jpg"></td>
+     	<td class="name"><a id="cand_name_7" href="http://www.dv.is/stjornlagathing/ari-teitsson/konnun" title="DV síða frambjóðanda">Ari Teitsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_7">2237</td>
+     	<td class="fix" id="cand_fix_7" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_8">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_8" class="thumbnail" src="images/thumbnails/4734.jpg"></td>
+     	<td class="name"><a id="cand_name_8" href="http://www.dv.is/stjornlagathing/gudmundur-arnason/konnun" title="DV síða frambjóðanda">Guðmundur Árnason</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_8">4734</td>
+     	<td class="fix" id="cand_fix_8" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_9">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_9" class="thumbnail" src="images/thumbnails/9156.jpg"></td>
+     	<td class="name"><a id="cand_name_9" href="http://www.dv.is/stjornlagathing/fridrik-hansen-gudmundsson/konnun" title="DV síða frambjóðanda">Friðrik Hansen Guðmundsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_9">9156</td>
+     	<td class="fix" id="cand_fix_9" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_10">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_10" class="thumbnail" src="images/thumbnails/2061.jpg"></td>
+     	<td class="name"><a id="cand_name_10" href="http://www.dv.is/stjornlagathing/andri-mar-fridriksson/konnun" title="DV síða frambjóðanda">Andri Már Friðriksson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_10">2061</td>
+     	<td class="fix" id="cand_fix_10" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_11">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_11" class="thumbnail" src="images/thumbnails/7748.jpg"></td>
+     	<td class="name"><a id="cand_name_11" href="http://www.dv.is/stjornlagathing/signy-sigurdardottir/konnun" title="DV síða frambjóðanda">Signý Sigurðardóttir</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_11">7748</td>
+     	<td class="fix" id="cand_fix_11" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_12">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_12" class="thumbnail" src="images/thumbnails/3282.jpg"></td>
+     	<td class="name"><a id="cand_name_12" href="http://www.dv.is/stjornlagathing/steinn-karason/konnun" title="DV síða frambjóðanda">Steinn Kárason</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_12">3282</td>
+     	<td class="fix" id="cand_fix_12" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_13">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_13" class="thumbnail" src="images/thumbnails/2963.jpg"></td>
+     	<td class="name"><a id="cand_name_13" href="http://www.dv.is/stjornlagathing/silja-ingolfsdottir/konnun" title="DV síða frambjóðanda">Silja Ingólfsdóttir</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_13">2963</td>
+     	<td class="fix" id="cand_fix_13" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_14">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_14" class="thumbnail" src="images/thumbnails/3975.jpg"></td>
+     	<td class="name"><a id="cand_name_14" href="http://www.dv.is/stjornlagathing/clarence-edvin-glad/konnun" title="DV síða frambjóðanda">Clarence Edvin Glad</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_14">3975</td>
+     	<td class="fix" id="cand_fix_14" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_15">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_15" class="thumbnail" src="images/thumbnails/8617.jpg"></td>
+     	<td class="name"><a id="cand_name_15" href="http://www.dv.is/stjornlagathing/agust-alfred-snaebjornsson/konnun" title="DV síða frambjóðanda">Ágúst Alfreð Snæbjörnsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_15">8617</td>
+     	<td class="fix" id="cand_fix_15" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_16">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_16" class="thumbnail" src="images/thumbnails/9607.jpg"></td>
+     	<td class="name"><a id="cand_name_16" href="http://www.dv.is/stjornlagathing/thorvaldur-hjaltason/konnun" title="DV síða frambjóðanda">Þorvaldur Hjaltason</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_16">9607</td>
+     	<td class="fix" id="cand_fix_16" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_17">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_17" class="thumbnail" src="images/thumbnails/7132.jpg"></td>
+     	<td class="name"><a id="cand_name_17" href="http://www.dv.is/stjornlagathing/hjalti-hugason/konnun" title="DV síða frambjóðanda">Hjalti Hugason</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_17">7132</td>
+     	<td class="fix" id="cand_fix_17" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_18">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_18" class="thumbnail" src="images/thumbnails/8936.jpg"></td>
+     	<td class="name"><a id="cand_name_18" href="http://www.dv.is/stjornlagathing/bryan-allen-smith-iii/konnun" title="DV síða frambjóðanda">Bryan Allen Smith III</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_18">8936</td>
+     	<td class="fix" id="cand_fix_18" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_19">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_19" class="thumbnail" src="images/thumbnails/3359.jpg"></td>
+     	<td class="name"><a id="cand_name_19" href="http://www.dv.is/stjornlagathing/magnus-ingi-oskarsson/konnun" title="DV síða frambjóðanda">Magnús Ingi Óskarsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_19">3359</td>
+     	<td class="fix" id="cand_fix_19" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_20">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_20" class="thumbnail" src="images/thumbnails/5218.jpg"></td>
+     	<td class="name"><a id="cand_name_20" href="http://www.dv.is/stjornlagathing/thorir-jokull-thorsteinsson/konnun" title="DV síða frambjóðanda">Þórir Jökull Þorsteinsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_20">5218</td>
+     	<td class="fix" id="cand_fix_20" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_21">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_21" class="thumbnail" src="images/thumbnails/9651.jpg"></td>
+     	<td class="name"><a id="cand_name_21" href="http://www.dv.is/stjornlagathing/inga-kristin-kjartansdottir/konnun" title="DV síða frambjóðanda">Inga Kristín Kjartansdóttir</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_21">9651</td>
+     	<td class="fix" id="cand_fix_21" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_22">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_22" class="thumbnail" src="images/thumbnails/7462.jpg"></td>
+     	<td class="name"><a id="cand_name_22" href="http://www.dv.is/stjornlagathing/solveig-dagmar-thorisdottir/konnun" title="DV síða frambjóðanda">Sólveig Dagmar Þórisdóttir</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_22">7462</td>
+     	<td class="fix" id="cand_fix_22" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_23">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_23" class="thumbnail" src="images/thumbnails/6527.jpg"></td>
+     	<td class="name"><a id="cand_name_23" href="http://www.dv.is/stjornlagathing/gunnar-hersveinn-sigursteinsson/konnun" title="DV síða frambjóðanda">Gunnar Hersveinn Sigursteinsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_23">6527</td>
+     	<td class="fix" id="cand_fix_23" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+        <tr>
+        <td class="score" title="skor" id="cand_score_24">0</td>
+     	<td class="thumbnail"><img id="cand_thumbnail_24" class="thumbnail" src="images/thumbnails/2457.jpg"></td>
+     	<td class="name"><a id="cand_name_24" href="http://www.dv.is/stjornlagathing/thorsteinn-ingimarsson/konnun" title="DV síða frambjóðanda">Þorsteinn Ingimarsson</a></td>
+     	<td class="nr" title="Nr. frambjóðanda" id="cand_nr_24">2457</td>
+     	<td class="fix" id="cand_fix_24" title="Sýna svör frambjóðanda tímabundið í stað þinna (smella til að festa)">svör</td>
+     </tr>
+   
+  				</table>
+  			</td>
+  		</tr>
+  	</table>
+  	<div class="footer">Tómstundaverkefni:-) - Frumgerð - Sjá <a href="score.js">score.js</a> fyrir útreikninga - Ábendingar til <a href="mailto:thor.kummer@gmail.com">thor.kummer@gmail.com</a>. IP tala, tími og vafri eru logguð. Aðrar upplýsingar um notendur eru ekki geymdar.</div>
+    <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://77.37.13.117/sigti.html"></fb:like>
+  </body>
+</html>

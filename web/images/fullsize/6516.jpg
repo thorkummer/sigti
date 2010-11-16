@@ -1,0 +1,1363 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="is" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>DV.is  </title>
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+		<!--<script type="text/javascript">_deilais_id="dv";</script><script type="text/javascript" src="http://s.deila.is/m/s.js"></script>
+		<script type='text/javascript' src='http://93.95.224.76/www/delivery/spcjs.php?id=2&amp;block=1&amp;blockcampaign=1&amp;target=_blank'></script>
+		<script type='text/javascript' src='http://93.95.224.76/www/delivery/spcjs.php?id=2&amp;block=1&amp;target=_blank'></script>-->
+		
+        <script type="text/javascript" src="/media/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/media/js/jquery-ui-1.7.2.custom.min.js"></script>
+		<script type="text/javascript" src="/media/js/swfobject.js"></script>
+		<script type="text/javascript" src="/media/js/script.js?v=4"></script>
+		
+		
+		
+		<link rel="alternate" type="application/atom+xml" href="/straumur/" />
+		<link rel="shortcut icon" href="/media/images/layout/favicon.ico">
+		<link rel="stylesheet" href="/media/css/screen.css?v=13" type="text/css">
+		<!-- HM LAYOUT 
+		<link rel="stylesheet" href="/media/css/screen_hm.css?v=2" type="text/css">
+		HM LAYOUT -->
+		<style type="text/css">
+		#vis_banner {
+		margin: auto;
+		z-index: 998;
+		outline: none;
+		}
+		#toplayer {
+		left: 0px;
+		top: 0px;
+		margin: 0px;
+		z-index: 999;
+		outline: none;
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		display: none;
+		}
+
+		#cards {
+		margin: auto;
+		z-index: 999;
+		outline: none;
+		}
+		</style>
+        <script type="text/javascript">
+              function showTarotCard(){
+                document.getElementById("toplayer").style.display = "block";
+              }
+              function hideTarotCard(){
+                document.getElementById("toplayer").style.display = "none";
+              }
+        </script>
+	</head>
+	
+
+	<body id="frettir">
+		 
+		<div class="zone zone-turn"><div id="zone-turn">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=16");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=16&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+		<div id="topper">
+        	<div class="leit">
+				<form action="http://www.google.com/cse" id="cse-search-box">
+				  <div>
+				    <input type="hidden" name="cx" value="014122051245259659175:jqsavptxzws" />
+				    <input type="hidden" name="ie" value="UTF-8" />
+				    <input type="text" name="q" size="31" />
+				    <input type="submit" name="sa" value="Leita á DV.is" />
+				  </div>
+				</form>
+	
+            </div>
+            <div class="tenglar">
+			<a class="topper_takki" href="/askrift">Áskrift</a> | <a class="topper_takki" href="/dv/frettaskot">Fréttaskot</a> | <a class="topper_takki" href="/dv/dv-is-verdskra/">Auglýsingar</a> | <a class="topper_takki" href="/m/">Fyrir farsíma</a>
+            
+			<a class="vedur" href="/siggistormur/2010/11/13/hardnandi-frost-ovedur-kjalarnesi/">Reykjavík: 1.3° 7m/s N</a>
+			
+           </div>
+            <br clear="all"/>
+		</div>
+		<div id="page">
+			<div id="header">
+				<div id="top">
+					
+					<a href="/" id="dv-logo"><img alt="DV" src="/media/images/layout/dv-logo-new-2.png" /></a>
+					 
+					
+
+<div class="zone zone-stor_banner"><div id="zone-stor_banner">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=13");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=13&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+
+				</div>
+				<div id="menubar">
+				<div id="section-list-nav">
+				<ul id="section-list">
+					<li class="frettir"><a href="/frettir/innlent/" class="first">Fréttir</a></li>
+					<li class="sport"><a href="/sport/">Sport</a></li>
+					<li class="sed-og-heyrt"><a href="/folk/">Fólk</a></li>
+					<li class="blogg"><a href="/blogg/">Blogg</a></li>
+					<li class="brennidepill"><a href="/brennidepill/">Brennidepill</a></li>
+					<li class="kritik"><a href="/kritik/">Krítík</a></li>
+					<li class="sandkorn"><a href="/sandkorn/">Sandkorn</a></li>
+                    <li class="leidari"><a href="/leidari/">Leiðarar</a></li>
+					<li class="neytandinn"><a href="/neytandinn/">Neytendur</a></li>
+					<li class="lifsstill"><a href="/lifsstill/">Lífsstíll</a></li>
+					<li class="skritid"><a href="/skrytid/">Skrýtið</a></li>
+					<li class="stjornlagathing"><a href="/stjornlagathing/">Stjórnlagaþing</a></li>
+				</ul><br clear="all"/>
+				</div>
+				</div>		
+			</div>
+			<div id="body">
+				
+<div id="sidebar">
+	
+
+
+<div>
+
+
+<div id="frettir_stats">
+	<ul class="frettir_stats_haus">
+		<li class="mrtabs mrtab_sel" id="mostreadtab">Mest lesið í dag</li>
+		<li class="mrtabs" id="hottesttab">Núna</li>
+		<li class="mrtabs" id="yesterdaytab">Vikan</li>
+		<li class="mrtabs" id="bloggtab">Blogg</li>
+	</ul>
+    <div class="frettir_stats_content">
+		<div id="mostreadcontainer" style="">
+			<ol class="entry-list">
+	
+			
+				<li><a href="/frettir/2010/11/13/tarvot-tengdamodir-helgu-eg-er-ad-fa-hjartaafall-af-streitu/">Tárvot tengdamóðir Helgu: Ég er að fá hjartaáfall af streitu</a></li>
+			
+				<li><a href="/frettir/2010/11/13/nordmenn-vilja-islendinga-heim/">Norðmenn vilja Íslendinga „heim“</a></li>
+			
+				<li><a href="/frettir/2010/11/13/jonina-gleymdi-stefnumoti-vid-bjorn/">Jónína Ben: Steingleymdi stefnumóti við Björn</a></li>
+			
+				<li><a href="/frettir/2010/11/13/35-fjolskyldur-haft-samband-vid-islendingasmalana/">35 fjölskyldur haft samband við Íslendingasmalana</a></li>
+			
+				<li><a href="/frettir/2010/11/13/ritthjofurinn-george-w-bush/">Ritþjófurinn George W. Bush</a></li>
+			
+				<li><a href="/frettir/2010/11/13/allt-kafi-i-snjo-akureyri/">Allt á kafi í snjó á Akureyri</a></li>
+			
+				<li><a href="/frettir/2010/11/13/kostur-eins-ars-jon-gerald-lifdi-af-bonusfedga/">Kostur eins árs: Jón Gerald lifði af Bónusfeðga</a></li>
+			
+		
+			</ol>
+		</div>
+		<div id="yesterdaycontainer" style="display:none;">
+			<ol class="entry-list">
+		
+				
+				<li><a href="/frettir/2010/11/8/dottir-aegis-geirdal-thetta-er-fjolskylduharmleikur/">Dóttir Ægis Geirdal: „Þetta er fjölskylduharmleikur“</a></li>
+				
+				<li><a href="/folk/2010/11/9/milos-aldrei-verid-med-volu-grand/">Sambandið við Völu Grand var blekking</a></li>
+				
+				<li><a href="/frettir/2010/11/8/kvensamur-kongur-i-fylgd-islenskra-kvenna/">Kvensamur kóngur í fylgd íslenskra kvenna</a></li>
+				
+				<li><a href="/frettir/2010/11/9/sokud-um-ad-svikja-milljonir-af-oliuerfingja-og-tonskaldi/">Heildsaladóttir sögð hafa svikið milljónir af olíuerfingja</a></li>
+				
+				<li><a href="/frettir/2010/11/12/thetta-er-mikill-harmleikur/">„Þetta er mikill harmleikur“</a></li>
+				
+				<li><a href="/frettir/2010/11/7/tiu-daga-gamalt-barn-lest-eftir-ad-modirin-let-thad-i-thvottavel/">Tíu daga gamalt barn lést eftir að móðirin lét það í þvottavél</a></li>
+				
+				<li><a href="/frettir/2010/11/8/hafa-lagt-363-milljonir-i-dularfullt-verkefni/">Íslendingar leggja 363 milljónir í dularfullt verkefni</a></li>
+				
+		
+			</ol>
+		</div>
+		<div id="bloggcontainer" style="display:none;">
+			<ol class="entry-list">
+		
+				
+				<li><a href="/blogg/eimreidin/2010/11/13/aevintyraleg-bilavidskipti/"><strong>Teitur</strong>: Ævintýraleg bílaviðskipti.</a></li>
+				
+		
+			</ol>
+		</div>
+		<div id="hottestcontainer" style="display:none;">
+			<ol class="entry-list">
+
+			
+				<li><a href="/frettir/2010/11/13/35-fjolskyldur-haft-samband-vid-islendingasmalana/">35 fjölskyldur haft samband við Íslendingasmalana</a></li>
+			
+				<li><a href="/frettir/2010/11/13/tarvot-tengdamodir-helgu-eg-er-ad-fa-hjartaafall-af-streitu/">Tárvot tengdamóðir Helgu: Ég er að fá hjartaáfall af streitu</a></li>
+			
+				<li><a href="/frettir/2010/11/13/glorulaus-rekstrarkostnadur-lifeyrissjodanna/">Lífeyristoppur hirðir 20 milljónir króna á ári</a></li>
+			
+				<li><a href="/frettir/2010/11/13/kostur-eins-ars-jon-gerald-lifdi-af-bonusfedga/">Kostur eins árs: Jón Gerald lifði af Bónusfeðga</a></li>
+			
+				<li><a href="/frettir/2010/11/13/internetid-odum-ad-fyllast/">Internetið óðum að fyllast</a></li>
+			
+				<li><a href="/frettir/2010/11/13/nordmenn-vilja-islendinga-heim/">Norðmenn vilja Íslendinga „heim“</a></li>
+			
+				<li><a href="/frettir/2010/11/13/jonina-gleymdi-stefnumoti-vid-bjorn/">Jónína Ben: Steingleymdi stefnumóti við Björn</a></li>
+			
+
+			</ol>
+		</div>
+    </div>
+</div>
+
+<br/>
+
+
+<a href="/tengt/sokud-um-ad-svikja-fe-af-tonskaldi/" class="relateissue" style="background:url('/media/news/relateissue/bedi_og_helga_png_280x1000_q95.jpg') -8px -21px black no-repeat;"><div style="top:2px;left:70px;"><span style="background:black;color:white;">Sökuð um fjársvik</span></div></a>
+
+
+<div class="line"></div>
+<div class="zone zone-video"><div id="zone-video">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=12");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=12&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+<div class="line"></div>
+
+
+<a href="http://www.dv.is/stjornlagathing/konnun/" class="relateissue" style="background:url('/media/news/relateissue/kj%C3%B6rse%C3%B0ill_jpg_280x1000_q95.jpg') -9px -9px black no-repeat;"><div style="top:19px;left:4px;"><span style="background:white;color:black;">Finndu þinn frambjóðanda</span></div></a>
+
+
+
+</div>
+<div class="line"></div>
+
+
+	<div>
+
+	<a href="/stjornlagathing/konnun" style="margin-bottom:10px;"><img src="/media/images/layout/stjornlagathing/stjornlagathing_tilvisun.jpeg"/></a><br/>
+	
+<h4 class="sidebar_heading sandkorn"><a href="/sandkorn/">Sandkorn</a></h4>
+<div class="sidebar_box sandkorn_box">
+
+<div>
+
+	<h1><a href="/sandkorn/2010/11/13/fataekt-utrymt/">Fátækt útrýmt!</a></h1>
+	<img src="/media/news/story/image/%C3%B3lafur_stef%C3%A1nsson_2_2_jpg_110x110_crop_q95.jpg"/>
+	<div>Handboltakappinn Ólafur Stefánsson er með allra hreinskilnustu mönnum. Ólafur lagði næstum10 milljónir króna í fjárfestingarfélagið Arðvís sem lofar himinháum hagnaði.</div>
+    <a href="/sandkorn/2010/11/13/fataekt-utrymt/" class="more">Meira&nbsp;&raquo;</a>
+
+</div>
+<h3>Eldri sandkorn</h3>
+	<ol  class="entry-list">
+	
+		<li><a href="/sandkorn/2010/11/13/landsbankamenn-undir-fana/">Landsbankamenn undir fána</a></li>
+	
+		<li><a href="/sandkorn/2010/11/12/nahirdin-kjaftstopp/">Náhirðin kjaftstopp</a></li>
+	
+		<li><a href="/sandkorn/2010/11/12/fadir-til-hjalpar/">Faðir til hjálpar </a></li>
+	
+	</ol>
+</div>
+<div class="line"></div>
+	<div class="zone zone-turn_2"><div id="zone-turn_2">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=17");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=17&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+<div class="line"></div>
+	
+<!-- Neytandinn -->
+<h4 class="sidebar_heading neytendur"><a href="/neytandinn/">Neytendur</a></h4>
+<div class="sidebar_box neytendur_box">
+
+<div>
+	<img src="/media/news/story/image/14_%C3%A1ra_JPG_270x100_crop_q95.jpg"/>
+	<h1><a href="/consumer/2010/11/12/varasamir-malmar-i-neysluvatni/">Varasamir málmar í neysluvatni</a></h1>
+	<div>Blý safnast upp í lífverum og veldur einnig eituráhrifum á taugakerfi og talið krabbameinsvaldandi. Minnkar vöxt og hefur áhrif á ... <a href="/consumer/2010/11/12/varasamir-malmar-i-neysluvatni/" class="more">Meira&nbsp;&raquo;</a></div>
+    
+</div>
+</div>
+<div class="line"></div>
+	<div>
+<iframe src="http://www.facebook.com/plugins/activity.php?site=www.dv.is&amp;width=270&amp;height=350&amp;header=false&amp;colorscheme=light&amp;recommendations=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:350px;" allowTransparency="true"></iframe>
+</div>
+<div class="line"></div>	
+	
+
+<h4 class="sidebar_heading kritik"><a href="/kritik/">Krítík</a></h4>
+<div class="sidebar_box kritik_box">
+
+<div>
+	<img src="/media/news/story/image/letmein_03_jpg_270x150_crop_q95.jpg"/>
+	<h1><a href="/kritik/2010/11/10/gildrurnar-i-hollywood/">Gildrurnar í Hollywood</a></h1>
+    <img src="/media/images/layout/stjornur/6.png" class="stjornur"/>
+	<div><span class="section">Kvikmynd</span> Let Me In á marga mjög góða spretti, skapar magnþrungið andrúmsloft á köflum og er mjög vel leikin. Þegar myndin ... <a href="/kritik/2010/11/10/gildrurnar-i-hollywood/" class="more">Meira&nbsp;&raquo;</a></div>
+    
+</div>
+</div>
+<div class="line"></div>
+	
+<h4 class="sidebar_heading blogg"><a href="/blogg/">Blogg</a></h4>
+	<div class="sidebar_box blogg_box">
+
+	
+	<ul id="blog-box" class="post-list">
+		
+		<li>
+			<img src="/media/blog/author/Teitur_Atlason_40x40_crop_sharpen_q95.jpg" alt="Teitur" />
+			<h2><a href="/blogg/eimreidin/2010/11/13/aevintyraleg-bilavidskipti/">Ævintýraleg bílaviðskipti.</a></h2>
+			<h3><a href="/blogg/eimreidin/2010/11/13/aevintyraleg-bilavidskipti/">Teitur</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/tobbs__jpg_40x40_crop_sharpen_q95.jpg" alt="Veröld Tobbu" />
+			<h2><a href="/blogg/verold-tobbu/2010/11/12/aetti-gnarr-ekki-ad-heita-leidin-ad-titlinum/">ÆTTI GNARR EKKI AÐ HEITA: LEIÐIN AÐ TITLINUM ? </a></h2>
+			<h3><a href="/blogg/verold-tobbu/2010/11/12/aetti-gnarr-ekki-ad-heita-leidin-ad-titlinum/">Veröld Tobbu</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/tobbs__jpg_40x40_crop_sharpen_q95.jpg" alt="Veröld Tobbu" />
+			<h2><a href="/blogg/verold-tobbu/2010/11/12/bring-back-50s/">BRING BACK THE 50´S ! </a></h2>
+			<h3><a href="/blogg/verold-tobbu/2010/11/12/bring-back-50s/">Veröld Tobbu</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/eir__jpg_40x40_crop_sharpen_q95.jpg" alt="Eiríkur Jónsson" />
+			<h2><a href="/blogg/eirikur-jonsson/2010/11/12/haskoli-eda-guggenheim/">HÁSKÓLI EÐA GUGGENHEIM?</a></h2>
+			<h3><a href="/blogg/eirikur-jonsson/2010/11/12/haskoli-eda-guggenheim/">Eiríkur Jónsson</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/eir__jpg_40x40_crop_sharpen_q95.jpg" alt="Eiríkur Jónsson" />
+			<h2><a href="/blogg/eirikur-jonsson/2010/11/12/jonina-ben-og-rokdyra-forsidan/">JÓNÍNA BEN OG FOKDÝRA FORSÍÐAN!</a></h2>
+			<h3><a href="/blogg/eirikur-jonsson/2010/11/12/jonina-ben-og-rokdyra-forsidan/">Eiríkur Jónsson</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/eir__jpg_40x40_crop_sharpen_q95.jpg" alt="Eiríkur Jónsson" />
+			<h2><a href="/blogg/eirikur-jonsson/2010/11/12/skemmtilegar-daetur-ljod/">SKEMMTILEGAR DÆTUR - LJÓÐ!</a></h2>
+			<h3><a href="/blogg/eirikur-jonsson/2010/11/12/skemmtilegar-daetur-ljod/">Eiríkur Jónsson</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/roberthlynur_jpg_40x40_crop_sharpen_q95.jpg" alt="Róbert Hlynur Baldursson" />
+			<h2><a href="/blogg/robert-hlynur-baldursson/2010/11/12/svorin-min/">Svörin mín</a></h2>
+			<h3><a href="/blogg/robert-hlynur-baldursson/2010/11/12/svorin-min/">Róbert Hlynur Baldursson</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/johann_hauksson_jpg_40x40_crop_sharpen_q95.jpg" alt="Jóhann Hauksson" />
+			<h2><a href="/blogg/johann-hauksson/2010/11/12/bedid-eftir-nyja-islandi/">BEÐIÐ EFTIR NÝJA ÍSLANDI</a></h2>
+			<h3><a href="/blogg/johann-hauksson/2010/11/12/bedid-eftir-nyja-islandi/">Jóhann Hauksson</a></h3>
+		</li>
+		
+		<li>
+			<img src="/media/blog/author/hjortur_hjartarson_jpg_40x40_crop_sharpen_q95.jpg" alt="Hlöðuveggur" />
+			<h2><a href="/blogg/hloduveggur/2010/11/11/kirkjan-og-stjornarskrain/">Kirkjan og stjórnarskráin</a></h2>
+			<h3><a href="/blogg/hloduveggur/2010/11/11/kirkjan-og-stjornarskrain/">Hlöðuveggur</a></h3>
+		</li>
+		
+		<li class="last">
+			<img src="/media/blog/author/Teitur_Atlason_40x40_crop_sharpen_q95.jpg" alt="Teitur" />
+			<h2><a href="/blogg/eimreidin/2010/11/11/space-invaders-lopapeysan/">Space Invaders lopapeysan.</a></h2>
+			<h3><a href="/blogg/eimreidin/2010/11/11/space-invaders-lopapeysan/">Teitur</a></h3>
+		</li>
+		
+	</ul>
+    </div>
+<div class="line"></div>
+    
+<h4 class="sidebar_heading leidari"><a href="/leidari/">Leiðari</a></h4>
+	<div class="sidebar_box leidari_box">	
+
+
+	<div>
+		<h1><a href="/leidari/2010/11/13/skyjaglopar-reykjanesi/">Skýjaglópar á Reykjanesi</a></h1>
+		<h2>
+		
+			
+				Reynir Traustason
+			
+		
+		</h2>
+		
+			
+			    <img src="/media/news/staff/Reynir_Traustason_09_jpg_80x80_crop_sharpen_q95.jpg" class="leidaramynd" alt="Reynir Traustason" />
+			
+		
+		Einhver nöturlegustu örlög sveitarfélags er að finna í Reykjanesbæ. Þar sem áður draup smjör af hverju strái blasir við eymdin. 
+        </div>
+    <a href="/leidari/2010/11/13/skyjaglopar-reykjanesi/" class="more">Meira&nbsp;&raquo;</a>
+	<h3>Eldri leiðarar</h3>
+	<ol  class="entry-list">
+	
+		<li><a href="/leidari/2010/11/10/byltingin-er-komin/">Byltingin er komin</a></li>
+	
+		<li><a href="/leidari/2010/11/9/fra-albaniu-til-islands/">Frá Albaníu til Íslands</a></li>
+	
+		<li><a href="/leidari/2010/11/5/thetta-er-ekki-thjodin/">„Þetta er ekki þjóðin“</a></li>
+	
+	</ol>
+    </div>   
+<div class="line"></div>
+	<div id="sidebar_forsida">
+	<a href="/askrift/" id="todays_paper_promo">
+		<img src="/media/subscription/2010_11_12_jpg_268x800_q95.jpg" />
+		<br/><center><h1>Kaupa áskrift að DV</h1></center>
+	</a>
+	</div>
+    <div class="line"></div>
+	</div>
+
+	<div class="zone zone-turn_4"><div id="zone-turn_4">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=19");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=19&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+
+<div class="line"></div>
+	<div>
+	<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("4349a61682df9861e2e164681122fb98");</script><fb:fan profile_id="168896858321" stream="0" connections="8" logobar="1" width="270"></fb:fan>
+	</div>
+</div>
+
+<div id="content">
+
+<table>
+	
+<!-- Burðarfrétt -->
+
+
+<tr class="one-column">
+	<td colspan="2" class="big feature-1">
+		<div class="feature-story">
+				<div class="story-image">
+                    <a href="/frettir/2010/11/13/stjornlagathing-rumur-helmingur-aetlar-ad-kjosa/">
+                        <img src="/media/news/story/image/kosningar_4_jpg_270x200_q95.jpg" alt="Rúmur helmingur ætlar að kjósa, 34 prósent eru óákveðin og 11 prósent ákveðin í að kjósa ekki" />
+                        
+
+				    </a>
+			</div>
+			<h1><a href="/frettir/2010/11/13/stjornlagathing-rumur-helmingur-aetlar-ad-kjosa/">Stjórnlagaþing: Rúmur helmingur ætlar að kjósa</a></h1>
+			<p>
+				<a href="/frettir/innlent/" class="section">Innlent</a> <span class="time">18:49</span> Rétt rúmur helmingur þeirra sem mega kjósa til stjórnlagaþings ætlar að nýta rétt sinn. Tæp 55 prósent alla hyggst greiða atkvæði í komandi kosningum.
+			</p>
+			<p><a href="/frettir/2010/11/13/stjornlagathing-rumur-helmingur-aetlar-ad-kjosa/" class="more">Meira &raquo;</a></p>
+			
+			
+		</div>
+	</td>
+</tr>
+
+<!-- Banner -->
+<tr class="one-column banner">
+	<td colspan="2">
+	    <div class="seperator"></div>
+		<div class="zone" style="text-align:center;">
+			<div class="zone zone-banner_1"><div id="zone-banner_1">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=14");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=14&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+		</div>
+		<div class="seperator"></div>
+	</td>
+</tr>
+<!-- 2nd level and 3rd level -->
+<tr class="two-column">
+	<td class="column-1 big feature-2">
+	    <div class="feature-2">
+		<div class="story-image">
+            <a href="/frettir/2010/11/13/naerri-allir-med-bornin-vikulega-skyndibitastad/">
+                <img src="/media/news/story/image/mcdonalds_4_jpg_260x200_crop_q95.jpg" alt="Skyndibitakeðjan McDonald´s þarf ekki að kvarta yfir útkomunni" width="300"/>
+                
+
+            </a>
+		</div>
+		<h1><a href="/frettir/2010/11/13/naerri-allir-med-bornin-vikulega-skyndibitastad/">Nærri allir með börnin vikulega á skyndibitastað</a></h1>
+		<p style="width:280px;">
+			<a href="/frettir/erlent/" class="section">Erlent</a> <span class="time">17:58</span> Samkvæmt nýrri könnun fara tæplega 85 prósent bandarískra foreldra með börnin sín á skyndibitastað í viku hverri. Þar af var ...
+		</p>
+		<p><a href="/frettir/2010/11/13/naerri-allir-med-bornin-vikulega-skyndibitastad/" class="more">Meira &raquo;</a></p>
+		</div>
+	</td>
+
+	<td class="column-2 big feature-2">
+	    
+	    <div class="feature-2">
+		<div class="story-image">
+            <a href="/frettir/2010/11/13/internetid-odum-ad-fyllast/">
+                <img src="/media/news/story/image/netid_jpg_260x200_crop_q95.jpg" alt="Internetið er óðum að fyllast og það fyllist hratt" width="300" />
+                
+
+            </a>
+		</div>
+		<h1><a href="/frettir/2010/11/13/internetid-odum-ad-fyllast/">Internetið óðum að fyllast</a></h1>
+		<p style="width:280px;">
+			<a href="/frettir/erlent/" class="section">Erlent</a> <span class="time">17:15</span> Internetið er óðum að fyllast og nú styttist í að ekki verði pláss til að tengja þangað fleiri notendur. Um ...
+		</p>
+		<p><a href="/frettir/2010/11/13/internetid-odum-ad-fyllast/" class="more">Meira &raquo;</a></p>
+		</div>
+	    
+	</td>
+</tr>
+
+<tr class="two-column">
+	<td class="column-1 big feature-2">
+		<ul class="feature-3">
+			
+			<li>
+				<h1><a href="/frettir/2010/11/13/glorulaus-rekstrarkostnadur-lifeyrissjodanna/">Lífeyristoppur hirðir 20 milljónir króna á ári</a></h1>
+				<p>
+					<a href="/frettir/innlent/" class="section">Innlent</a>
+					<img src="/media/news/story/image/DV18268020308_01_jpg_100x100_q95.jpg" alt="Árni Guðmundsson, framkvæmdastjóri Gildi lífeyrissjóðs, er launahæstur framkvæmdastjóranna sex. 19,6 milljónir í laun 2009 samkvæmt ársskýrslu." style="float:right" />
+					<span class="time">16:15</span> Rekstrarkostnaður sex stærstu lífeyrissjóða landsins árið 2009 nam rúmlega 2,1 ... <a href="/frettir/2010/11/13/glorulaus-rekstrarkostnadur-lifeyrissjodanna/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+			</li>
+			
+			<li>
+				<h1><a href="/frettir/2010/11/13/35-fjolskyldur-haft-samband-vid-islendingasmalana/">35 fjölskyldur haft samband við Íslendingasmalana</a></h1>
+				<p>
+					<a href="/frettir/innlent/" class="section">Innlent</a>
+					<img src="/media/news/story/image/DV1011111980_1_jpg_100x100_q95.jpg" alt="Frá Stongfjorden í Noregi. 35 fjölskyldur og 114 einstaklingar hafa haft samband við Roy og Haavard." style="float:right" />
+					<span class="time">14:54</span> „Viðbrögðin hafa verið frábær og hafa 35 fjölskyldur haft samband ... <a href="/frettir/2010/11/13/35-fjolskyldur-haft-samband-vid-islendingasmalana/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+			</li>
+			
+			<li class="last">
+				<h1><a href="/frettir/2010/11/13/kostur-eins-ars-jon-gerald-lifdi-af-bonusfedga/">Kostur eins árs: Jón Gerald lifði af Bónusfeðga</a></h1>
+				<p>
+					<a href="/frettir/innlent/" class="section">Innlent</a>
+					<img src="/media/news/story/image/kostureinsars_jpg_100x100_q95.jpg" alt="Jón Gerald ásamt bakarameistaranum við afmælistertu Kosts. Verslunin sem sett var á laggirnar til höfuðs Bónus á matvörumarkaðnum hefur nú verið starfrækt í heilt ár." style="float:right" />
+					<span class="time">14:43</span> Með því að bjóða upp á frábæra þjónustu og góðar ... <a href="/frettir/2010/11/13/kostur-eins-ars-jon-gerald-lifdi-af-bonusfedga/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+			</li>
+			
+		</ul>
+	</td>
+
+	<td class="column-2 big feature-2">
+		<ul class="feature-3">
+			
+			<li>
+				<h1><a href="/frettir/2010/11/13/jonina-gleymdi-stefnumoti-vid-bjorn/">Jónína Ben: Steingleymdi stefnumóti við Björn</a></h1>
+				<p>
+					<a href="/frettir/folk/" class="section">Fólk</a>
+					<img src="/media/news/story/image/j%C3%B3n%C3%ADna_og_bj%C3%B6rn_bjarna_png_100x100_q95.jpg" alt="Bók Jónínu Ben þykir ljóstra upp ýmus sem gerst hefur að tjaldabaki. Á meðal aðalpersóna bókarinnar eru valdamenn Íslands á borð við elskhuga hennar, Styrmi Gunnarsson, fyrrverandi ritstjóra Morgunblaðsins. Einnig er Björn Bjarnason dómsmálaráðherra fyrirferðarmikill. " style="float:right" />
+					<span class="time">13:05</span> Jónína Benediktsdóttir bauð Birni Bjarnasyni, þáverandi dómsmálaráðherra, í mat heim ... <a href="/frettir/2010/11/13/jonina-gleymdi-stefnumoti-vid-bjorn/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+			</li>
+			
+			<li>
+				<h1><a href="/frettir/2010/11/13/fridarverdlaunahafi-laus-ur-haldi/">Friðarverðlaunahafi laus úr haldi</a></h1>
+				<p>
+					<a href="/frettir/erlent/" class="section">Erlent</a>
+					<img src="/media/news/story/image/RTXUKO3_jpg_100x100_q95.jpg" alt="Aung San Suu Kyi ávarpar stuðningsmenn sína fyrir utan heimili sitt í Rangoon." style="float:right" />
+					<span class="time">13:01</span> Herforingjastjórnin í Búrma hefur sleppt Nóbelsverðlaunahafanum Aung San Suu Kyi ... <a href="/frettir/2010/11/13/fridarverdlaunahafi-laus-ur-haldi/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+			</li>
+			
+			<li class="last">
+				<h1><a href="/frettir/2010/11/13/naestum-buinn-ad-drepa-logreglumenn-med-slokkvitaeki/">Grýtti slökkvitæki ofan af þaki byggingar: Lenti við fætur lögreglumanna</a></h1>
+				<p>
+					<a href="/frettir/erlent/" class="section">Erlent</a>
+					<img src="/media/news/story/image/sl%C3%B6kkvit%C3%A6ki_jpg_100x100_q95.jpg" alt="Hér sést þegar slökkvitækinu er kastað af þaki byggingarinnar úr mikilli hæð." style="float:right" />
+					<span class="time">11:45</span> 23 ára gamall háskólanemi frá Cambridgeshire hefur verið handtekinn af ... <a href="/frettir/2010/11/13/naestum-buinn-ad-drepa-logreglumenn-med-slokkvitaeki/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+			</li>
+			
+		</ul>
+	</td>
+</tr>
+
+<!-- Banner -->
+
+<tr class="one-column banner">
+	<td colspan="2">
+		<div class="seperator"></div>
+		<div class="zone">
+			<div class="zone zone-banner_2"><div id="zone-banner_2">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=15");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=15&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+		</div>
+		<div class="seperator"></div>
+	</td>
+</tr>
+<tr class="two-column">
+	<td class="column-1 big feature-2">
+		<div class="frettadalkur innlent_dalkur">
+			<h4 class="sidebar_heading kritik"><a href="/siggistormur/2010/11/13/hardnandi-frost-ovedur-kjalarnesi/">Siggi Stormur</a></h4>
+			<div class="sidebar_box kritik_box" style="margin-bottom:15px;">
+
+			<div>
+				<img src="/media/news/story/image/Akureyri-Snjor_jpg_300x160_crop_q95.jpg"/>
+				<h1><a href="/siggistormur/2010/11/13/hardnandi-frost-ovedur-kjalarnesi/">Farið að draga úr vindi og ofankomu</a></h1>
+				<div>Vindur er nú byrjaður að ganga niður víðast hvar á landinu og á næstu klukkustundum lægir..... <a href="/siggistormur/2010/11/13/hardnandi-frost-ovedur-kjalarnesi/" class="more">Meira&nbsp;&raquo;</a></div>
+
+			</div>
+			</div>
+		</div>
+	</td>
+	<td class="column-2 big feature-2">
+		<div class="frettadalkur erlent_dalkur">
+			<h4 class="sidebar_heading gula_pressan"><a href="/gula_pressan/2010/11/13/valdaran/">&nbsp;</a></h4>
+			<div class="sidebar_box neytendur_box" style="margin-bottom:15px;">
+				<div>
+					<a href="/gula_pressan/2010/11/13/valdaran/">
+						<img src="/media/news/story/image/Page_1_15_jpg_300x250_crop_q95.jpg"/>
+					</a>
+				</div>
+			</div>
+		</div>
+	</td>
+</tr>
+<tr class="two-column">
+	<td class="column-1 big feature-2">
+		<div class="frettadalkur innlent_dalkur">
+		<h1 class="cat_head"><a href="/frettir/innlent/">Innlent</a></h1>
+			<div class="story">
+			
+				
+					<div class="story-image">
+						<a href="/frettir/2010/11/13/allt-kafi-i-snjo-akureyri/">
+						    <img src="/media/news/story/image/snj%C3%B3r_akureyri_1_JPG_300x200_crop_q95.jpg" alt="Frá Akureyri. Þarna undir einhversstaðar leynist fólksbíll." width="300"/>
+                            
+    <img class="mynd_bordi" src="/media/images/layout/bordar/myndir.png"/>
+
+
+						</a>
+					</div>
+					<h1><a href="/frettir/2010/11/13/allt-kafi-i-snjo-akureyri/">Allt á kafi í snjó á Akureyri</a></h1>
+				
+			
+				<p><a href="/frettir/innlent/" class="section">Innlent</a> <span class="time">11:10</span> Á Akureyri komust bæjarbúar ekki fet í morgunsárið fyrir snjó sem kyngdi niður í nótt. Margir ökumenn hafa lent í ...</p>
+				<p><a href="/frettir/2010/11/13/allt-kafi-i-snjo-akureyri/" class="more">Meira &raquo;</a></p>
+				<div style="clear:both;"></div>
+			</div>
+
+			<ul class="feature-3">
+				
+				<li>
+					<h1><a href="/frettir/2010/11/13/halka-hofudborgarsvaedinu-ohopp-i-morgun/">Hálka á höfuðborgarsvæðinu: Óhöpp í morgun</a></h1>
+					<p>
+						<a href="/frettir/innlent/" class="section">Innlent</a>
+						<img src="/media/news/story/image/dekk_1_jpg_70x70_q95.jpg" alt="Lögreglan varar við hálku enda hafa nokkur óhöpp orðið í morgun." class="mynd_listi" />
+						<span class="time">10:56</span> Lögreglan á höfuðborgarsvæðinu varar við mikilli hálku á götum nú í morgun, sérstaklega í efri byggðum og eru ökumenn minntir ...  <a href="/frettir/2010/11/13/halka-hofudborgarsvaedinu-ohopp-i-morgun/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+				<li>
+					<h1><a href="/frettir/2010/11/13/skuldabref-n1-athugunarlista-felagid-ekki-i-vandraedum/">Skuldabréf N1 á athugunarlista: Félagið ekki í vandræðum</a></h1>
+					<p>
+						<a href="/frettir/innlent/" class="section">Innlent</a>
+						<img src="/media/news/story/image/hermann_gudmundsson_jpg_70x70_q95.jpg" alt="Hermann Guðmundsson, forstjóri N1." class="mynd_listi" />
+						<span class="time">10:05</span> Skuldabréf N1 sem skráð eru á markaði hafa verið færð á athugunarlista Kauphallar Íslands að beiðni fyrirtækisins. Hermann Guðmundsson forstjóri ...  <a href="/frettir/2010/11/13/skuldabref-n1-athugunarlista-felagid-ekki-i-vandraedum/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+				<li>
+					<h1><a href="/frettir/2010/11/13/tarvot-tengdamodir-helgu-eg-er-ad-fa-hjartaafall-af-streitu/">Tárvot tengdamóðir Helgu: Ég er að fá hjartaáfall af streitu</a></h1>
+					<p>
+						<a href="/frettir/innlent/" class="section">Innlent</a>
+						<img src="/media/news/story/image/helga_og_obama_-_Copy_2_jpg_70x70_q95.jpg" alt="Vickram og Helga. Tengdamóðir Helgu hefur miklar áhyggjur af þeim og kveðst buguð af streitu." class="mynd_listi" />
+						<span class="time">10:00</span> DV náði tali af móður Vickram Bedi, tengdamóður Helgu Ingvarsdóttur, í tölvuverslun þeirra Datalink Computer Services í Mount Kisco í ...  <a href="/frettir/2010/11/13/tarvot-tengdamodir-helgu-eg-er-ad-fa-hjartaafall-af-streitu/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+				<li class="last">
+					<h1><a href="/frettir/2010/11/13/wikileaks-skrair-fyrirtaeki-islandi/">Wikileaks skráir fyrirtæki á Íslandi</a></h1>
+					<p>
+						<a href="/frettir/innlent/" class="section">Innlent</a>
+						<img src="/media/news/story/image/Julian_Assange_2_1_jpg_70x70_q95.jpg" alt="Julian Assange stofnandi Wikileaks. Tengsl síðunnar við Ísland styrkjast." class="mynd_listi" />
+						<span class="time">08:28</span> Uppljóstrunarsíðan Wikileaks hefur skráð fyrirtæki sitt á Íslandi að því er Kristinn Hrafnsson, talsmaður síðunnar segir í samtali við AFP-fréttastofuna ...  <a href="/frettir/2010/11/13/wikileaks-skrair-fyrirtaeki-islandi/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+			</ul>
+		</div>
+
+	</td>
+
+	<td class="column-2 big feature-2">
+		<div class="frettadalkur erlent_dalkur">
+		<h1 class="cat_head"><a href="/frettir/erlent/">Erlent</a></h1>
+			<div class="story">
+			
+				
+					<div class="story-image">
+						<a href="/frettir/2010/11/13/ritthjofurinn-george-w-bush/">
+						    <img src="/media/news/story/image/bush_hj%C3%B3nin_jpg_300x200_crop_q95.jpg" alt="Bush er sagður hafa aðeins fengið „lánaðar“ nokkrar minningar í ævisögu sinni. Hér er hann ásamt eiginkonu sinni Lauru."/>
+                            
+
+						</a>
+					</div>
+					<h1><a href="/frettir/2010/11/13/ritthjofurinn-george-w-bush/">Ritþjófurinn George W. Bush</a></h1>
+				
+			
+				<p><a href="/frettir/erlent/" class="section">Erlent</a> <span class="time">10:00</span> George W. Bush er sakaður um ritstuld í nýútkomnum æviminningum sínum í bandarískum fjölmiðlum í dag. Hann er sagður hafa ...</p>
+				<p><a href="/frettir/2010/11/13/ritthjofurinn-george-w-bush/" class="more">Meira &raquo;</a></p>
+				<div style="clear:both;"></div>
+			</div>
+			<ul class="feature-3">
+			
+				<li>
+				<h1><a href="/frettir/2010/11/13/aetludu-ad-radast-herstod-nato-og-flugvoll/">Ætluðu að ráðast á herstöð NATO og flugvöll</a></h1>
+				<p>
+					<a href="/frettir/erlent/" class="section">Erlent</a>
+					<img src="/media/news/story/image/afganistan_hermenn_1_jpg_70x70_q95.jpg" alt="Afganskir hermenn, andartökum eftir skotárásina við flugvöllinn." class="mynd_listi" />
+					<span class="time">09:03</span> Að minnsta kosti átta herskáir Talíbanar létu lífið þegar þeir gerðu tilraun til að gera sjálfsvígssprengjuárás á herstöð NATO og ...  <a href="/frettir/2010/11/13/aetludu-ad-radast-herstod-nato-og-flugvoll/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li>
+				<h1><a href="/frettir/2010/11/13/sukkuladi-mun-verda-gulls-i-gildi/">Súkkulaði mun verða gulls í gildi</a></h1>
+				<p>
+					<a href="/frettir/erlent/" class="section">Erlent</a>
+					<img src="/media/news/story/image/sukkaldi_jpg_70x70_q95.jpg" alt="Í dag kosta súkkulaðistykki ríflega 100 krónur í verslunum. Verðið gæti sjöfaldast á næstu árum." class="mynd_listi" />
+					<span class="time">00:24</span> Súkkulaðisjúklingar gætu þurft að borga sjö sinnum meira fyrir súkkulaðistykki eftir 10-20 ár, ef marka má sérfræðinga í súkkulaðiiðnaðinum. Marc ...  <a href="/frettir/2010/11/13/sukkuladi-mun-verda-gulls-i-gildi/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li>
+				<h1><a href="/frettir/2010/11/12/brjostgod-kona-kynthokkafull-fyrir-stoduhaekkun/">Brjóstgóð kona of kynþokkafull fyrir stöðuhækkun</a></h1>
+				<p>
+					<a href="/frettir/erlent/" class="section">Erlent</a>
+					<img src="/media/news/story/image/busty_jpg_70x70_q95.jpg" alt="" class="mynd_listi" />
+					<span class="time">23:30</span> Amy-Erin Blakely kærði fyrirverandi vinnuveitendur sýna fyrir kynferðislega áreitni. Sagðist hún hafa verið rekin eftir að hún kvartaði yfir því ...  <a href="/frettir/2010/11/12/brjostgod-kona-kynthokkafull-fyrir-stoduhaekkun/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li class="last">
+				<h1><a href="/frettir/2010/11/12/sagdi-rikid-adeins-graeda-hradasektum-og-neitadi-thvi-ad-sekta-okuthora/">Sagði ríkið aðeins græða á hraðasektum og neitaði því að sekta ökuþóra</a></h1>
+				<p>
+					<a href="/frettir/erlent/" class="section">Erlent</a>
+					<img src="/media/news/story/image/speed_jpg_70x70_q95.jpg" alt="" class="mynd_listi" />
+					<span class="time">17:36</span> Þýskur dómari aflaði sér mikilla vinsælda á dögunum þegar hann ákvað að 42 ökuþórar þyrftu ekki að borga sektir vegna ...  <a href="/frettir/2010/11/12/sagdi-rikid-adeins-graeda-hradasektum-og-neitadi-thvi-ad-sekta-okuthora/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+			</ul>
+		</div>
+	</td>
+
+</tr>
+<tr class="two-column">
+	<td class="column-1 big feature-2">
+	    <div class="frettadalkur innlent_dalkur">
+			<p class="action_local"><a href="/frettir/innlent/">Innlendar fréttir »</a></p>
+        </div>
+    </td>
+
+	<td class="column-2 big feature-2">
+		<div class="frettadalkur erlent_dalkur">
+		    <p class="action_local"><a href="/frettir/erlent/">Erlendar fréttir »</a></p>
+        </div>
+    </td>
+</tr>
+
+<tr class="one-column banner">
+	<td colspan="2">
+		<div class="seperator"></div>
+		<div class="zone">
+			<div class="zone zone-banner_3"><div id="zone-banner_3">
+	
+	<script type='text/javascript'><!--//<![CDATA[		
+	   var m3_u = (location.protocol=='https:'?'https://93.95.224.76/www/delivery/ajs.php':'http://93.95.224.76/www/delivery/ajs.php');
+	   var m3_r = Math.floor(Math.random()*99999999999);
+	   if (!document.MAX_used) document.MAX_used = ',';
+	   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+	   document.write ("?zoneid=24");
+	   document.write ('&amp;cb=' + m3_r);
+	   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+	   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+	   document.write ("&amp;loc=" + escape(window.location));
+	   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+	   if (document.context) document.write ("&context=" + escape(document.context));
+	   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+	   document.write ("'><\/scr"+"ipt>");
+	//]]>--></script><noscript><a href='http://93.95.224.76/www/delivery/ck.php?n=a10a516f&amp;cb=5235234234' target='_blank'><img src='http://93.95.224.76/www/delivery/avw.php?zoneid=24&amp;cb=345435345234&amp;n=a10a516f' border='0' alt='' /></a></noscript>
+	 
+</div></div>
+
+		</div>
+		<div class="seperator"></div>
+	</td>
+</tr>
+
+<tr class="two-column">
+	<td class="column-1 big feature-2">
+		<div class="frettadalkur sogh_dalkur">
+		<h1 class="cat_head"><a href="/folk/">Fólk</a></h1>
+			<div class="story">
+			
+				
+					<div class="story-image">
+						<a href="/folk/2010/11/13/paltrow-kvalin-i-pyntingarskom/">
+						    <img src="/media/news/story/image/DV1011101137_jpg_300x200_crop_q95.jpg" alt="Paltrow hélt andliti í „pyntingartækinu“"/>
+                            
+    <img class="mynd_bordi" src="/media/images/layout/bordar/myndir.png"/>
+
+
+						</a>
+					</div>
+					<h1><a href="/folk/2010/11/13/paltrow-kvalin-i-pyntingarskom/">Paltrow kvalin í pyntingarskóm</a></h1>
+				
+			
+				<p><a href="/sed-og-heyrt/erlent/" class="section">Erlent</a> <span class="time">12:35</span> Gwyneth Paltrow var kvalin þegar hún steig á rauða dregilinn á mánudag á frumsýningu nýjustu myndarinnar sinnar, Country Strong. Ástæðan ...</p>
+				<p><a href="/folk/2010/11/13/paltrow-kvalin-i-pyntingarskom/" class="more">Meira &raquo;</a></p>
+				<div style="clear:both;"></div>
+			</div>
+
+			<ul class="feature-3">
+				
+				<li>
+					<h1><a href="/folk/2010/11/12/fjolmargir-sottu-utgafuteiti-joninu/">Fjölmargir sóttu útgáfuteiti Jónínu</a></h1>
+					<p>
+						<a href="/sed-og-heyrt/innlent/" class="section">Innlent</a>
+						<img src="/media/news/story/image/solvinyja_jpg_70x70_q95.jpg" alt="Jónína Benediktsdóttir og Sölvi Tryggvason voru alsæl með bókina. " class="mynd_listi" />
+						<span class="time">18:01</span> Jónína Benediktsdóttir fagnaði útkomu bókar sinnar í dag sem nefnist Jónína Ben. Margir sóttu veisluna enda er Jónína með þekktari ...  <a href="/folk/2010/11/12/fjolmargir-sottu-utgafuteiti-joninu/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+				<li>
+					<h1><a href="/folk/2010/11/12/pink-von-barni/">Pink á von á barni</a></h1>
+					<p>
+						<a href="/sed-og-heyrt/erlent/" class="section">Erlent</a>
+						<img src="/media/news/story/image/DV1011102800_jpg_70x70_q95.jpg" alt="Pink hefur ekki staðfest fregnirnar." class="mynd_listi" />
+						<span class="time">13:49</span> Söngkona Pink á von á sínu fyrsta barni samkvæmt Us Weekly. Hin 31 árs gamla Pink, sem heitir réttu nafni ...  <a href="/folk/2010/11/12/pink-von-barni/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+				<li>
+					<h1><a href="/folk/2010/11/12/aron-ekki-enn-farid-stefnumot-med-thyskri-konu/">Íslensku stelpurnar flottari en þær þýsku</a></h1>
+					<p>
+						<a href="/sed-og-heyrt/innlent/" class="section">Innlent</a>
+						<img src="/media/news/story/image/aron_p%C3%A1lmarsson_jpg_70x70_q95.jpg" alt="Aron Pálmarsson og Alfreð Gíslason eru í viðtali í DV í dag." class="mynd_listi" />
+						<span class="time">09:50</span> „Þær eru ekki nálægt því eins flottar og þær íslensku,“ segir handboltakappinn Aron Pálmarson spurður út í þýsku stelpurnar í ...  <a href="/folk/2010/11/12/aron-ekki-enn-farid-stefnumot-med-thyskri-konu/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+				<li class="last">
+					<h1><a href="/folk/2010/11/12/jonsi-i-spjallthaetti-jimmy-fallon/">Jónsi í spjallþætti Jimmy Fallon</a></h1>
+					<p>
+						<a href="/sed-og-heyrt/innlent/" class="section">Innlent</a>
+						<img src="/media/news/story/image/j%C3%B3nsi_jpg_70x70_q95.jpg" alt="Jónsi lauk velheppnaðri tónleikaferð um Bandaríkin í vikunni." class="mynd_listi" />
+						<span class="time">09:49</span> Íslenski tónlistarmaðurinn Jón Þór Birgisson, betur þekktur sem Jónsi úr Sigur Rós, lauk velheppnuðu tónleikaferðalagi um Bandaríkin í Hammerstein Ballrom ...  <a href="/folk/2010/11/12/jonsi-i-spjallthaetti-jimmy-fallon/" class="more">Meira&nbsp;&raquo;</a>
+					</p>
+				</li>
+				
+			</ul>
+			&nbsp;
+			<p class="action"><a href="/folk/">Fólk »</a></p>
+		</div>
+
+	</td>
+
+	<td class="column-2 big feature-2">
+	<div class="frettadalkur sport_dalkur">	    
+		<h1 class="cat_head"><a href="/sport/">Sport</a></h1>
+			<div class="story">
+			
+				
+					<div class="story-image">
+						<a href="/sport/2010/11/13/draumalid-wayne-rooney-valdi-bara-vidic-ur-united/">
+						    <img src="/media/news/story/image/rooney_3_3_jpg_300x200_crop_q95.jpg" alt="Rooney vekur eflaust ekki mikla lukku meðal stuðningsmanna United. Hvað þá liðsfélaga sinna." />
+                            
+
+						</a>
+					</div>
+					<h1><a href="/sport/2010/11/13/draumalid-wayne-rooney-valdi-bara-vidic-ur-united/">Draumalið Wayne Rooney: Valdi bara Vidic úr United</a></h1>
+				
+			
+				<p><a href="/sport/fotbolti/" class="section">Fótbolti</a> <span class="time">11:58</span> Wayne Rooney hefur hellt olíu á eldinn varðandi samband sitt við Manchester United með því að velja draumalið sitt og ...</p>
+				<p><a href="/sport/2010/11/13/draumalid-wayne-rooney-valdi-bara-vidic-ur-united/" class="more">Meira &raquo;</a></p>
+				<div style="clear:both;"></div>
+			</div>
+			<ul class="feature-3">
+			
+				<li>
+				<h1><a href="/sport/2010/11/12/van-der-vaart-tharf-ad-komast-i-betra-form/">Van der Vaart þarf að komast í betra form</a></h1>
+				<p>
+					<a href="/sport/fotbolti/" class="section">Fótbolti</a>
+					<img src="/media/news/story/image/vanxde_jpg_70x70_q95.jpg" alt="" class="mynd_listi" />
+					<span class="time">21:42</span> Hollenski miðvallarleikmaðurinn Rafael Van der Vaart er búinn að skora í öllum heimaleikjum sem hann hefur spilað með Tottenham á ...  <a href="/sport/2010/11/12/van-der-vaart-tharf-ad-komast-i-betra-form/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li>
+				<h1><a href="/sport/2010/11/12/enn-ein-arasin-hja-karl-henry/">Enn ein árásin hjá Karl Henry</a></h1>
+				<p>
+					<a href="/sport/fotbolti/" class="section">Fótbolti</a>
+					<img src="/media/news/story/image/karl_henry_jpg_70x70_q95.jpg" alt="Karl Henry er ekki besti tæklarinn í deildinni. " class="mynd_listi" />
+					<span class="time">11:47</span> Miðjumaðurinn stæðilegi Karl Henry sem leikur með Wolves slapp óvænt við kastljós fjölmiðla í kjölfar slæmrar tæklingar á Andrey Arshavin ...  <a href="/sport/2010/11/12/enn-ein-arasin-hja-karl-henry/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li>
+				<h1><a href="/sport/2010/11/12/rio-og-tevez-i-laeknisleik/">Rio og Tevez í læknisleik</a></h1>
+				<p>
+					<a href="/sport/fotbolti/" class="section">Fótbolti</a>
+					<img src="/media/news/story/image/RTXUH03_jpg_70x70_q95.jpg" alt="Ýmislegt gerist í hita leiksins. Tevez braut á Ferdinand en þeir enduðu í frekar spaugilegri stellingu." class="mynd_listi" />
+					<span class="time">08:24</span> Mynd af átökum Rio Ferdinand og Carlos Tevez í Manchester-slagnum á miðvikudag hefur vakið mikla lukku. Af myndinni mætti ætla ...  <a href="/sport/2010/11/12/rio-og-tevez-i-laeknisleik/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li class="last">
+				<h1><a href="/sport/2010/11/11/adstodarthjalfari-chelsea-rekinn-fyrirvaralaust/">Aðstoðarþjálfari Chelsea rekinn fyrirvaralaust</a></h1>
+				<p>
+					<a href="/sport/fotbolti/" class="section">Fótbolti</a>
+					<img src="/media/news/story/image/wilking_jpg_70x70_q95.jpg" alt="Ray Wilkins var rekinn frá Chelsea í dag. Hér er hann með Guus Hiddink, fyrrverandi knattspyrnustjóra Chelsea." class="mynd_listi" />
+					<span class="time">19:37</span> Aðstoðarþjálfari enska úrvalsdeildarliðsins Chelsea, Ray Wilkins, hefur verið rekinn frá félaginu og beðinn um að yfirgefa það tafarlaust. Sjálfur hefur ...  <a href="/sport/2010/11/11/adstodarthjalfari-chelsea-rekinn-fyrirvaralaust/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+			</ul>
+			<p class="action"><a href="/sport/">Sport »</a></p>
+		</div>
+	</td>
+</tr>
+<tr class="one-column banner">
+	<td colspan="2">
+		<div class="seperator"></div>
+	</td>
+</tr>
+
+<tr class="two-column">
+	<td class="column-1 big feature-2">
+		<div class="frettadalkur lifsstill_dalkur">	    
+		<h1 class="cat_head"><a href="/lifsstill/">Lífsstíll</a></h1>
+			<div class="story">
+			
+				
+					<div class="story-image">
+						<a href="/lifsstill/2010/11/13/lanvin-fyrir-hm/">
+						    <img src="/media/news/story/image/Lanvin-Hearts-HM-006_jpg_300x200_crop_q95.jpg" alt=""/>
+						</a>
+					</div>
+					<h1><a href="/lifsstill/2010/11/13/lanvin-fyrir-hm/">Lanvin fyrir H&amp;M</a></h1>
+				
+			
+				<p><a href="/lifsstill/" class="section">Lífsstíll</a> <span class="time">15:00</span> Verslunarkeðjan H&amp;M er helst þekkt fyrir lág verð, trendí fatnað og samstarfs sitt við heimsþekkta hönnuði, nú síðast Sonia Rykiel.</p>
+				<p><a href="/lifsstill/2010/11/13/lanvin-fyrir-hm/" class="more">Meira &raquo;</a></p>
+				<div style="clear:both;"></div>
+			</div>
+
+			<ul class="feature-3">
+			
+				<li>
+				<h1><a href="/lifsstill/2010/11/13/omega-3-haegir-ekki-hrornun/">Omega-3 hægir ekki á hrörnun</a></h1>
+				<p>
+					<a href="/lifsstill/" class="section">Lífsstíll</a>
+					<img src="/media/news/story/image/DV0911267333_jpg_70x70_q95.jpg" alt="" class="mynd_listi" />
+					<span class="time">08:00</span> Samkvæmt rannsókn, sem birtist í Journal of the American Medical Association, hægja fæðubótarefni sem unnin eru upp úr fiskiolíu ekki ...  <a href="/lifsstill/2010/11/13/omega-3-haegir-ekki-hrornun/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li class="last">
+				<h1><a href="/lifsstill/2010/11/12/floknara-ad-blekkja-en-ljuga/">Flóknara að blekkja en ljúga</a></h1>
+				<p>
+					<a href="/lifsstill/" class="section">Lífsstíll</a>
+					<img src="/media/news/story/image/DV2402270307_spil_0_jpg_70x70_q95.jpg" alt="" class="mynd_listi" />
+					<span class="time">15:02</span> Með hjálp heilaskanna hafa bandarískir vísindamenn komist að því hvað gerist í heila svikahrappa og afburðar pókerspilara þegar þeir nota ...  <a href="/lifsstill/2010/11/12/floknara-ad-blekkja-en-ljuga/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+			</ul>
+			<p class="action"><a href="/lifsstill/">Lífsstíll »</a></p>
+		</div>
+	</td>
+
+	<td class="column-2 big feature-2">
+		<div class="frettadalkur skrytid_dalkur">	    
+		<h1 class="cat_head"><a href="/skrytid/">Skrýtið</a></h1>
+			<div class="story">
+			
+				
+					<div class="story-image">
+						<a href="/skrytid/2010/11/12/kim-jong-il-kexid-radisan-og-maisstonglarnir/">
+						    <img src="/media/news/story/image/radisa_jpg_300x200_crop_q95.jpg" alt=""/>
+						</a>
+					</div>
+					<h1><a href="/skrytid/2010/11/12/kim-jong-il-kexid-radisan-og-maisstonglarnir/">Kim Jong-Il, kexið, radísan og maísstönglarnir</a></h1>
+				
+			
+				<p><a href="/skrytid/" class="section">Skrýtið</a> <span class="time">23:42</span> Kim Jong-il, einræðisherra Norður-Kóreu, ferðast reglulega um landið sitt og heimsækir verksmiðjur og bóndabýli. Það svífur furðulegur andi yfir vötnum ...</p>
+				<p><a href="/skrytid/2010/11/12/kim-jong-il-kexid-radisan-og-maisstonglarnir/" class="more">Meira &raquo;</a></p>
+				<div style="clear:both;"></div>
+			</div>
+
+			<ul class="feature-3">
+			
+				<li>
+				<h1><a href="/skrytid/2010/11/11/songvari-og-fjarsjodsleitari-gaeti-att-skinn-af-utdaudu-ranpokadyri/">Söngvari og fjársjóðsleitari gæti átt skinn af útdauðu ránpokadýri</a></h1>
+				<p>
+					<a href="/skrytid/" class="section">Skrýtið</a>
+					<img src="/media/news/story/image/thylacine1_jpg_70x70_q95.jpg" alt="" class="mynd_listi" />
+					<span class="time">23:47</span> Hann syngur í spilavítum og þekkti Frank Sinatra. Hann leitar að fjársjóðum í skipsflökum á hafsbotni víða um heiminn. Hann ...  <a href="/skrytid/2010/11/11/songvari-og-fjarsjodsleitari-gaeti-att-skinn-af-utdaudu-ranpokadyri/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+				<li class="last">
+				<h1><a href="/skrytid/2010/11/10/sex-ara-stulka-hvalveidiskipi-arid-1868/">Sex ára stúlka ferðaðist um heiminn á hvalveiðiskipi árið 1868 </a></h1>
+				<p>
+					<a href="/skrytid/" class="section">Skrýtið</a>
+					<img src="/media/news/story/image/laura_jernegan_jpg_70x70_q95.jpg" alt="" class="mynd_listi" />
+					<span class="time">23:43</span> Árið 1868 ákvað bandaríski hvalveiðiskipstjórinn Jared Jernegan að taka fjölskyldu sína með sér um borð í þriggja ára siglingu um ...  <a href="/skrytid/2010/11/10/sex-ara-stulka-hvalveidiskipi-arid-1868/" class="more">Meira&nbsp;&raquo;</a>
+				</p>
+				</li>
+			
+			</ul>
+			<p class="action"><a href="/skrytid/">Skrýtið »</a></p>
+		</div>
+	</td>
+</tr>
+
+
+
+</table>
+
+</div><br clear="all"/>
+<h1>Aðrir fréttamiðlar</h1>
+<div id="rssfeeds">
+<table width="100%">
+	<tr>
+		<td>
+			<h2 style="margin-bottom:5px;">Ísland</h2>
+			
+			<div class="rssitem"><a href="http://www.ruv.is/frett/esb-beitir-islendinga-yfirgangi">„ESB beitir Íslendinga yfirgangi“</a> <span>ruv.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.visir.is/vanskilamalum-fjolgad-gridarlega/article/2010473509827">Vanskilamálum fjölgað gríðarlega</a> <span>visir.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.ruv.is/frett/stulku-bjargad-ur-snjo">Stúlku bjargað úr snjó</a> <span>ruv.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.visir.is/hetjan-fra-akureyri--bjargadi-barni-undan-snjohengju/article/2010105940353">Hetjan frá Akureyri: Bjargaði barni undan snjóhengju</a> <span>visir.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.mbl.is/mm/frettir/forsida/2010/11/13/skorid_nidur_i_rekstri_kirkjunnar_um_10_prosent/">Skorið niður í rekstri kirkjunnar um 10%</a> <span>mbl.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.mbl.is/mm/frettir/forsida/2010/11/13/stoke_liverpool_stadan_er_0_0/">Stoke - Liverpool, staðan er 0:0</a> <span>mbl.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.visir.is/svikahnappur-vis-brytur-gegn-logum/article/2010295014798">Svikahnappur VÍS brýtur gegn lögum</a> <span>visir.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.mbl.is/mm/frettir/forsida/2010/11/13/radist_a_par_a_strikinu/">Ráðist á par á Strikinu</a> <span>mbl.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.ruv.is/frett/segir-gagnrynina-omaklega">Segir gagnrýnina ómaklega</a> <span>ruv.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.mbl.is/mm/frettir/forsida/2010/11/13/emanuel_i_frambod/">Emanuel í framboð</a> <span>mbl.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.visir.is/adeins-helmingur-aetlar-ad-kjosa-til-stjornlagathings/article/2010982607035">Aðeins helmingur ætlar að kjósa til stjórnlagaþings</a> <span>visir.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.mbl.is/mm/frettir/forsida/2010/11/13/snjohengja_fell_a_barn/">Snjóhengja féll á barn</a> <span>mbl.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.ruv.is/frett/ovissa-um-kjorsokn">Óvissa um kjörsókn</a> <span>ruv.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.visir.is/segir-truarbrogd-eigi-i-takmorkudu-maeli-ad-fa-adgang-ad-skolum/article/2010257514239">Segir trúarbrögð eigi í takmörkuðu mæli að fá aðgang að skólum</a> <span>visir.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.mbl.is/mm/frettir/forsida/2010/11/13/aettflokkur_a_steinaldarstigi/">Ættflokkur á steinaldarstigi</a> <span>mbl.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vb.is/frett/1/62487/">Fasteignamarkaður: Uppsveiflan í síðustu viku dugði skammt</a> <span>vb.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.ruv.is/frett/nemendum-bodid-upp-a-piparkokukarla">Nemendum boðið upp á piparkökukarla</a> <span>ruv.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.ruv.is/frett/niu-ar-lidin-fra-falli-talibana">Níu ár liðin frá falli talibana</a> <span>ruv.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vb.is/frett/1/62489/">Bankastarfsmenn í skuldavanda reknir</a> <span>vb.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vb.is/frett/31/62496/">Beitukóngsveiðar hafnar í Breiðafirði</a> <span>vb.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.visir.is/-fatt-betra-en-ad-vera-vedurtepptur-heima-/article/2010536659152">Fátt betra en að vera veðurtepptur heima</a> <span>visir.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vb.is/frett/2/62495/">Vinsælasta auglýsing Coca Cola kostaði metfé árið 1971</a> <span>vb.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vb.is/frett/1/62491/">Samherji í viðræðum um kaup á færeysku sjávarútvegsfyrirtæki</a> <span>vb.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vb.is/frett/2/62490/">Valdamesti embættismaður heims</a> <span>vb.is</span></div>
+			
+		</td>
+		<td>
+			<h2 style="margin-bottom:5px;">Landsbyggðin</h2>
+			
+			<div class="rssitem"><a href="http://www.vf.is/Frettir/46457/default.aspx">Friðrik V. sló í gegn á Vocal með bláskel og hreindýri</a> <span>vf.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vf.is/Frettir/46456/default.aspx">VEFTV: Glopruðu niður unnum leik</a> <span>vf.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vf.is/Frettir/46454/default.aspx">Kynlíf og unglingar</a> <span>vf.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vf.is/Frettir/46453/default.aspx">Bláa lónið kynnir samstarf við Unni Birnu</a> <span>vf.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vf.is/Frettir/46452/default.aspx">Poppguðsþjónusta í Njarðvík</a> <span>vf.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.vf.is/Frettir/46449/default.aspx">FS nemendur í starfsnámi</a> <span>vf.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.bb.is/?PageID=26&amp;NewsID=156279">Valt niður í fjöru á Súðavíkurhlíð</a> <span>bb.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.bb.is/?PageID=26&amp;NewsID=156273">Nemar skreyttu glugga Pennans</a> <span>bb.is</span></div>
+			
+			<div class="rssitem"><a href="http://www.bb.is/?PageID=26&amp;NewsID=156272">Grunnur lagður að stefnu Ísafjarðarbæjar í forvarnarmálum</a> <span>bb.is</span></div>
+			
+		</td>
+		<td>
+			<h2 style="margin-bottom:5px;">Útlönd</h2>
+			
+			<div class="rssitem"><a href="http://www.dr.dk/Nyheder/Indland/kriminalitet/2010/11/13/193431.htm?rss=true">Ung mand skulle afpresses 50.000 kr.</a> <span>dr.dk</span></div>
+			
+			<div class="rssitem"><a href="http://www.dr.dk/Nyheder/Udland/2010/11/13/192221.htm?rss=true">EU taler med Irland om hjælpepakke</a> <span>dr.dk</span></div>
+			
+			<div class="rssitem"><a href="http://feeds.nytimes.com/click.phdo?i=58dae648b0d5d296d99df6aceadf6898">I.R.S. Sits on Data Pointing to Missing Children</a> <span>nytimes.com</span></div>
+			
+			<div class="rssitem"><a href="http://feeds.nytimes.com/click.phdo?i=d7c1b55ea735a36223ec4eb463b638da">Zagat Aims to Regain Its Online Balance</a> <span>nytimes.com</span></div>
+			
+			<div class="rssitem"><a href="http://www.dr.dk/Nyheder/Udland/2010/11/13/184622.htm?rss=true">Nobelkomite inviterer Suu Kyi til Oslo</a> <span>dr.dk</span></div>
+			
+			<div class="rssitem"><a href="http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-pacific-11749661">Burma releases Aung San Suu Kyi</a> <span>bbc.co.uk</span></div>
+			
+			<div class="rssitem"><a href="http://www.dr.dk/Nyheder/Udland/2010/11/13/182427.htm?rss=true">Obama og Hu skændes igen om valuta</a> <span>dr.dk</span></div>
+			
+			<div class="rssitem"><a href="http://feeds.nytimes.com/click.phdo?i=571429de9821a898f7eb4cb94531a14f">After Party’s Rout, a Blue Dog Won’t Back Down</a> <span>nytimes.com</span></div>
+			
+			<div class="rssitem"><a href="http://www.bbc.co.uk/go/rss/int/news/-/news/world-europe-11751246">SNCF &#39;sorrow&#39; over Holocaust role</a> <span>bbc.co.uk</span></div>
+			
+			<div class="rssitem"><a href="http://feeds.nytimes.com/click.phdo?i=0624cb51c7993f5006339bd9ebec2eda">Burmese Dissident Is Freed After Long Detention</a> <span>nytimes.com</span></div>
+			
+			<div class="rssitem"><a href="http://feeds.nytimes.com/click.phdo?i=0c1af3d72ab2c83f42fca2fa1db2c460">Silver Lining Seen in Defeat of California Measure</a> <span>nytimes.com</span></div>
+			
+			<div class="rssitem"><a href="http://feeds.nytimes.com/click.phdo?i=537575d2bfd8d24c61ffb9d3822d378a">Reporter’s Notebook: Heartfelt Moments on an Up-and-Down Global Trip</a> <span>nytimes.com</span></div>
+			
+			<div class="rssitem"><a href="http://www.bbc.co.uk/go/rss/int/news/-/news/world-south-asia-11749196">Taliban raid on Afghan Nato base</a> <span>bbc.co.uk</span></div>
+			
+			<div class="rssitem"><a href="http://www.dr.dk/Nyheder/Indland/2010/11/13/170645.htm?rss=true">Giftigt græs mod fugle i Kastrup</a> <span>dr.dk</span></div>
+			
+			<div class="rssitem"><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/2xMcRQod-3M/index.html">Myanmar activist Aung San Suu Kyi released</a> <span>cnn.com</span></div>
+			
+			<div class="rssitem"><a href="http://www.bbc.co.uk/go/rss/int/news/-/news/business-11750676">Irish &#39;in bailout talks with EU&#39;</a> <span>bbc.co.uk</span></div>
+			
+			<div class="rssitem"><a href="http://www.dr.dk/Nyheder/Indland/kriminalitet/2010/11/13/164840.htm?rss=true">60-årig fængslet for skud mod løber</a> <span>dr.dk</span></div>
+			
+			<div class="rssitem"><a href="http://www.bbc.co.uk/go/rss/int/news/-/news/world-middle-east-11750780">Iraq parties &#39;committed&#39; to deal</a> <span>bbc.co.uk</span></div>
+			
+			<div class="rssitem"><a href="http://www.bbc.co.uk/go/rss/int/news/-/news/world-asia-pacific-11748433">Obama warning over Asian exports</a> <span>bbc.co.uk</span></div>
+			
+			<div class="rssitem"><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/M4-_CNnb7d0/index.html">Earmarks in crosshairs of both parties</a> <span>cnn.com</span></div>
+			
+			<div class="rssitem"><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/w6d0uf-wPE8/index.html">FBI: Md. official&#39;s wife hid $80K in bra</a> <span>cnn.com</span></div>
+			
+			<div class="rssitem"><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/NNw6iaFdlWM/index.html">Gaza-bound ship in limbo in Greece</a> <span>cnn.com</span></div>
+			
+			<div class="rssitem"><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/a0gGZwm8MQA/index.html">New TSA measures draw backlash</a> <span>cnn.com</span></div>
+			
+			<div class="rssitem"><a href="http://rss.cnn.com/~r/rss/cnn_topstories/~3/rtjjGScOmNA/index.html">$129M lottery ticket bought at porn shop</a> <span>cnn.com</span></div>
+			
+		</td>		
+	</tr>
+</table>
+</div>
+
+
+<br clear="all"/>
+
+			</div>
+			<br clear="all"/>
+			<div id="footer">
+				<table>
+					<tr>
+						<td>
+							<h1>DV</h1>
+							<ul>
+								<li><a href="/dv/frettaskot/">Fréttaskot</a></li>
+								<li><a href="/dv/hafa-samband/">Hafa samband</a></li>
+								<li><a href="/straumur/">RSS</a></li>
+								<li>Ritstjórn: 512 7010</li>
+							</ul>
+						</td>
+						<td>
+							<h1>Upplýsingar</h1>
+							<ul>
+								<li><a href="/dv/um-vefinn/">Um vefinn</a></li>
+								<li><a href="/dv/um-dv/">Um DV</a></li>
+								<li><a href="/dv/starfsfolk/">Starfsfólk</a></li>
+								<li><a href="/dv/rekstur-og-stjorn/">Rekstur og stjórn</a></li>
+							</ul>
+						</td>
+						<td>
+							<h1>Auglýsingar</h1>
+							<ul>
+								<li><a href="/dv/dv-verdskra/">DV verðskrá</a></li>
+								<li><a href="/dv/dv-is-verdskra/">DV.is verðskrá</a></li>
+								<li>Sölumaður: 512 7000</li>
+							</ul>
+						</td>
+						<td>
+							<h1>Áskrift</h1>
+							<ul>
+								<li><a href="/askrift/">Netáskrift</a></li>
+								<li><a href="https://birtinguraskrift.appspot.com">Áskrift að DV</a></li>
+								<li>Áskriftarsími: 512 7000</li>
+							</ul>
+						</td>
+						<td id="logolist" width="400">
+						</td>
+					</tr>
+				</table>
+				
+			</div><br clear="all"/>
+			<div style="text-align:center;font-size:11px">&copy; 2010 DV ehf. - Allur réttur áskilinn</div>
+		</div>
+		<div id="toplayer">
+			<div id="cards"><a href="http://www.adobe.com/go/getflashplayer">http://www.adobe.com/go/getflashplayer</a></div>
+		</div>
+
+<!-- Virk vefmaeling byrjar. Vefur: http://www.dv.is -->
+<script language="javascript" type="text/javascript">
+        var p_run_js=0;
+</script>
+<script language="javascript1.1" type="text/javascript">
+        var p_run_js=1;
+</script>
+<script language="javascript" type="text/javascript">
+        var service_id = "15859";
+	var portion = "1";
+	var page_guess = document.getElementsByTagName('body')[0].id;
+        var page = page_guess ? page_guess : "forsida";
+        // var page = "" ? "" : "forsida";
+        if(!p_run_js) {
+                document.write('<img width="1" height="1" src="http://dv-is.teljari.is/potency/potency.php?o='+service_id+';i='+portion+';p='+page+';j=1.0" alt="" border="0" />');
+        }
+</script>
+<script language="javascript1.1" type="text/javascript" src="http://dv-is.teljari.is/potency/js/potency.js"></script>
+<noscript>
+<img width="1" height="1" src="http://dv-is.teljari.is/potency/potency.php?o=15859;i=1;p=forsida" alt="" border="0" />
+</noscript>
+<!-- Virk vefmaeling endar -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-80501-9";
+urchinTracker();
+
+var _sf_async_config={uid:13179,domain:"dv.is"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+</body>
+</html>
